@@ -6,5 +6,7 @@ source: www.google.com
 category: testing
 ---
 
-What it do kangaroo?!
+<h1 class="major">Testing Page</h1>
+
+<h1>What it do kangaroo?!</h1>
 
