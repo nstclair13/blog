@@ -5,10 +5,11 @@ layout: default_blog
 <ul>
     {% for post in site.posts %}
     <li>
-        <b><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></b>
+        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
+        
         <p>{{post.meta}}</p>
-        <b><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{post.title}}</a></b>
-        <a href=""></a>
+        <b><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></b>
+        <hr />
     </li>
     {% endfor %}
 </ul>
