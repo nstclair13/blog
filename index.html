@@ -1,13 +1,17 @@
 ---
-layout: default
+layout: default_blog
 ---
 
-<h1 class="major">Latest Posts</h1>
 <ul>
     {% for post in site.posts %}
     <li>
-        <b><a href="{{ post.url | prepend: site.baseurl }}" >{{post.title}}</a></b>
+        <b><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></b>
         <p>{{post.meta}}</p>
+        <b><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{post.title}}</a></b>
+        <a href=""></a>
+        
     </li>
     {% endfor %}
 </ul>
+
+
