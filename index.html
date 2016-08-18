@@ -7,9 +7,8 @@ layout: default_blog
     <li>
         <h2><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
         <p>{{post.meta}}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
         <hr />
     </li>
     {% endfor %}
 </ul>
-
-
