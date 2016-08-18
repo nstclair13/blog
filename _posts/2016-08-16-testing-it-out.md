@@ -8,5 +8,5 @@ category: testing
 
 <h1 class="major">Testing Page</h1>
 
-<h1>What it do kangaroo?!</h1>
+<h1>Testing 1, 2, 3</h1>
 
