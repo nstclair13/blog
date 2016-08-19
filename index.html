@@ -8,7 +8,7 @@ layout: default_blog
         <h2><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2> 
         <h5>{{ post.date | date: "%A, %B %-d, %Y" }}</h5>
         <p>{{post.meta}}</p>
-        <h5><a href="http://www.nick-st-clair.com/blog#disqus_thread"></a></h5>
+        <h5><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></h5>
         <hr />
     </li>
     {% endfor %}
