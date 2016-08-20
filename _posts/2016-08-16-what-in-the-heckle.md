@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: what in the heckle
+title: what in the heck
 meta: This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts
 category: Immigration
 ---
