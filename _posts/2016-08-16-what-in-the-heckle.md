@@ -3,6 +3,16 @@ layout: default_posts
 title: what in the heck
 meta: This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts
 category: Immigration
+
+custom_css: main
+custom_js:
+- jquery.min
+- jquery.scrollex.min
+- jquery.scrolly.min
+- skel.min
+- util
+- main
+- main
 ---
 
 
