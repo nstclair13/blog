@@ -6,10 +6,8 @@ category: Immigration
 
 custom_css: 
 - main
-- imagehover-extended.min
-- overlay-minimal
 custom_js:
-- jquery.min
+- jquery
 - jquery.scrollex.min
 - jquery.scrolly.min
 - skel.min
@@ -17,6 +15,7 @@ custom_js:
 - main
 - jquery.tools.min
 - videolightbox
+- swfobject
 ---
 
 
