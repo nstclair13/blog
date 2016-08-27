@@ -6,6 +6,7 @@ category: Immigration
 
 custom_css: 
 - main
+- lity
 custom_js:
 - jquery
 - jquery.scrollex.min
@@ -13,9 +14,7 @@ custom_js:
 - skel.min
 - util
 - main
-- jquery.tools.min
-- videolightbox
-- swfobject
+- lity
 ---
 
 
@@ -59,6 +58,6 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 <li class="ih-zoom-out ih-delay-lg">Rig: Animsquid.com</li>
 </ul>
 </figcaption>
-<a class="voverlay" href="http://vimeo.com/moogaloop.swf?clip_id=133730905&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;autoplay=0"></a>                                    
+<a href="https://vimeo.com/133730905" data-lity></a>                                    
 </figure>
 </span></div>
