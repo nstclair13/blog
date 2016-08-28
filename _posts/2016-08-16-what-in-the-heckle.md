@@ -5,7 +5,6 @@ meta: This is just a page to test posts This is just a page to test posts This i
 category: Immigration
 
 custom_css: 
-- main
 - lity
 custom_js:
 - jquery
