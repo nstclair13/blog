@@ -1,8 +1,8 @@
 ---
 layout: default_posts
-title: what in the heck
-meta: This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts This is just a page to test posts
-category: Immigration
+title: Introduction
+meta: Hello!
+category: Introduction
 
 custom_css: 
 - lity
