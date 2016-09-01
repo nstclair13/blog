@@ -1,9 +1,8 @@
 ---
 layout: default_posts
 title: Introduction
-meta: Hello!
-category: Introduction
-
+meta: Hello! My name is Nicholas St. Clair.
+category: intro
 custom_css: 
 - lity
 custom_js:

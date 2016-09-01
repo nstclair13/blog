@@ -6,21 +6,19 @@
 -->
 <html lang="en">
 	<head>
-		<title>Animation Abroad - Blog</title>
+		<title>{% if page.title %}{{page.title}} · {% endif %}Animation Abroad Blog</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Created by Nicholas St. Clair. A blog about living abroad while working in the animation industry. Other topics include things related to animation, vfx, tech, and other random tidbits!" />
+        <meta name="description" content="{{page.meta}}" />
         <link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/>
         <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-        <!-- XML RSS Feed -->
-        <link href='http://www.nick-st-clair.com/blog/feed.xml' rel='alternate' type='application/atom+xml'>
         <!-- Custom JS & CSS Per Post -->
         {% if page.custom_css %}
             {% for stylesheet in page.custom_css %}
-                <link rel="stylesheet" href="/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
+                <link rel="stylesheet" href="{{site.baseurl}}/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
             {% endfor %}
         {% endif %}
 <script>
@@ -91,7 +89,7 @@
 		<!-- Scripts -->
         {% if page.custom_js %}
             {% for js_file in page.custom_js %}
-                <script src='/assets/js/{{ js_file }}.js' type="text/javascript"></script>
+                <script src='{{site.baseurl}}/assets/js/{{ js_file }}.js' type="text/javascript"></script>
             {% endfor %}
         {% endif %} 
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->	
