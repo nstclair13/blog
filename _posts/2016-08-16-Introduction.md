@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Introduction
-meta: Hello! My name is Nicholas St. Clair.
+meta: Hello and welcome to the Animation Abroad blog! My name is Nicholas St. Clair. Come learn a little about me and take a look and see what this blog is about.
 category: intro
 custom_css: 
 - lity
