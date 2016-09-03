@@ -17,7 +17,7 @@ custom_js:
 
 <h1 class="major">Introduction</h1>
 
-<div><span class="image left"><figure class="imghvr-strip-shutter-up"><img src="/images/avatar.jpg" alt="Nick St. Clair Photo" />
+<div><span class="image left"><figure class="imghvr-strip-shutter-up"><img src="{{site.url}}/images/avatar.jpg" alt="Nick St. Clair Photo" />
                                                 <figcaption>
                                                     
                                                     <center><h3 class="ih-fade-down ih-delay-sm">Nicholas St. Clair</h3></center>
