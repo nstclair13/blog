@@ -21,7 +21,7 @@ Just a quick update today to say what I'm working on at work. I obviously cant s
 
 <center>
 <div>
-<span class="image">
+<span class="image fit">
 <img src="http://ia.media-imdb.com/images/M/MV5BNTg5NzEwNTA4NV5BMl5BanBnXkFtZTgwNzU4NDY1ODE@._V1_SX675_CR0,0,675,999_AL_.jpg" alt="Kingsman: The Golden Circle Poster" />
 </span>
 </div>
