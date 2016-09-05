@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: Suicide Squad - Art of VFX Interview
+title: Suicide Squad&#58; Art of VFX Interview
 meta: Here is a fun interview from Art of VFX with Mark Breakspear about the work done on Suicide Squad. 
 category: VFX Interview
 custom_css:
