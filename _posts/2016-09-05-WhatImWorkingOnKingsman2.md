@@ -19,13 +19,13 @@ custom_js:
 
 Just a quick update today to say what I'm working on at work. I obviously cant say anything until it's released in 2017 but here is an official poster for the time being! Being a fan of the first film, getting to work on the sequel is pretty exciting! It's going to be a fun one and I cannot wait until it comes out for people to see the work being done.
 
-<center>
+
 <div>
-<span class="image fit">
+<span class="image">
 <img src="http://ia.media-imdb.com/images/M/MV5BNTg5NzEwNTA4NV5BMl5BanBnXkFtZTgwNzU4NDY1ODE@._V1_SX675_CR0,0,675,999_AL_.jpg" alt="Kingsman: The Golden Circle Poster" />
 </span>
 </div>
-</center>  
+  
 
 
 -Nick
