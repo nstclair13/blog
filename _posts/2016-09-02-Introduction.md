@@ -35,7 +35,7 @@ custom_js:
                                             </figure>
                                             </span></div>
 
-Hello and welcome! My name is Nicholas St. Clair. I'm an animator currently working in the feature film industry, primarily in VFX. I've been doing this professionally for awhile now and decided to make this blog to talk about some of my experiences. If you're interested, you can see my experience **[here](https://www.nick-st-clair.com/#one)**. You can also check out some of my work **[here](https://www.nick-st-clair.com/professional)** and **[here](https://www.nick-st-clair.com/personal).**
+Hello and welcome! My name is Nicholas St. Clair, I'm an animator currently working in the feature film industry, primarily in VFX. I've been doing this professionally for awhile now and decided to make this blog to talk about some of my experiences. If you're interested, you can see my experience **[here](https://www.nick-st-clair.com/#one)**. You can also check out some of my work **[here](https://www.nick-st-clair.com/professional)** and **[here](https://www.nick-st-clair.com/personal).**
 
 So you're probably thinking, "Ugh, another animation blog where it's the same ole thing... "This is how a walk cycle should be done!" or "Read this, I have insight into how to make a character think and come alive!", "Best Demo Reel Tips!" etc etc.. Well, this isn't that blog. Sure, from time to time I will talk about the finer points of animation, what I'm working on, and some of the great things I've learned along the way, however, there are a lot better animation blogs out there from much, much, MUCH more talented artists. 
 
