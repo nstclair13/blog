@@ -2632,6 +2632,20 @@
                 
 			}
 
+        .image.fit_half {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+            
+            }
+
+			.image.fit_half img {
+				width: 50%;
+                margin-left: auto;
+                margin-right: auto;
+                
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
