@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Suicide Squad&#58; One Perfect Shot Interview
-meta: Here is an interesting interview from OnePerfectShotDB.com with Mark Breakspear about the VFX work done on Suicide Squad. 
+meta: Here is an interesting interview from OnePerfectShotDB.com about the VFX work done on Suicide Squad and some new interesting techniques. 
 category: VFX Interview
 custom_css:
 - lity
