@@ -17,7 +17,7 @@ custom_js:
 
 <h1 class="major">Suicide Squad: One Perfect Shot Interview</h1>
 
-<div><span class="image fit_half"><figure class="imghvr-strip-shutter-up"><img src="http://oneperfectshotdb.com/wp-content/uploads/2016/09/suicide_squad_background2_0.jpg" alt="Suicide Squad - One Perfect Shot Interview by Ian Failes" />
+<center><div><span class="image fit"><figure class="imghvr-strip-shutter-up"><img src="http://oneperfectshotdb.com/wp-content/uploads/2016/09/suicide_squad_background2_0.jpg" alt="Suicide Squad - One Perfect Shot Interview by Ian Failes" />
                                                 <figcaption>
                                                     
                                                     <center><h2 class="ih-fade-down ih-delay-sm">Suicide Squad (2016)</h2></center>
@@ -35,6 +35,7 @@ custom_js:
                                                 <a href="http://oneperfectshotdb.com/news/suicide-squad-and-the-art-of-vfx-how-imageworks-created-some-of-the-biggest-scenes/" target="_blank"></a>
                                             </figure>
                                             </span></div>
+                                            </center>
 
 Here is another article about the VFX work done on Suicide Squad with **[Mark Breakspear](http://www.imdb.com/name/nm0106421/)**. It was a really fun show to work on personally, and we used a lot of new techniques (to me at least) that are mentioned in this article. 
 The coolest innovation we used had to be the pointcloud capture "blocking" passes we were able to show. 99% of the time it was our animation lead, **[Richard Smith](http://www.imdb.com/name/nm2242449/)** doing it for us but I also did a few takes of my own as well. It wasn't a perfect system by any means but it sure allowed for a lot of iterations quickly and it did have a pretty high "cool" factor.  
