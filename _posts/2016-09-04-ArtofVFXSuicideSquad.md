@@ -17,7 +17,7 @@ custom_js:
 
 <h1 class="major">Suicide Squad: Art of VFX Interview</h1>
 
-<center><div><span class="image"><figure class="imghvr-strip-shutter-up"><img src="http://artofvfx.com/wp-content/uploads/2016/08/SuicideSquad_SPI_VFX_03.jpg" alt="Suicide Squad - Art of VFX Interview by Vincent Frei" />
+<div><span class="image"><figure class="imghvr-strip-shutter-up"><img src="http://artofvfx.com/wp-content/uploads/2016/08/SuicideSquad_SPI_VFX_03.jpg" alt="Suicide Squad - Art of VFX Interview by Vincent Frei" />
                                                 <figcaption>
                                                     
                                                     <center><h2 class="ih-fade-down ih-delay-sm">Suicide Squad (2016)</h2></center>
@@ -34,7 +34,7 @@ custom_js:
                                                 </figcaption>
                                                 <a href="http://www.artofvfx.com/suicide-squad-mark-breakspear-vfx-supervisor-sony-pictures-imageworks/" target="_blank"></a>
                                             </figure>
-                                            </span></div></center>
+                                            </span></div>
 
 Working on Suicide Squad was probably one of my most enjoyable shows I've been a part of. Mainly due to the people I got the privilege to work with, but also because the show was generally a fun one to animate on.
 
