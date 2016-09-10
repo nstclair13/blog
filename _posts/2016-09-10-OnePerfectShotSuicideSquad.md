@@ -17,7 +17,7 @@ custom_js:
 
 <h1 class="major">Suicide Squad: One Perfect Shot Interview</h1>
 
-<div><span class="image fit"><figure class="imghvr-strip-shutter-up"><img src="http://oneperfectshotdb.com/wp-content/uploads/2016/09/suicide_squad_background2_0.jpg" alt="Suicide Squad - One Perfect Shot Interview by Ian Failes" />
+<div><span class="image fit_half"><figure class="imghvr-strip-shutter-up"><img src="http://oneperfectshotdb.com/wp-content/uploads/2016/09/suicide_squad_background2_0.jpg" alt="Suicide Squad - One Perfect Shot Interview by Ian Failes" />
                                                 <figcaption>
                                                     
                                                     <center><h2 class="ih-fade-down ih-delay-sm">Suicide Squad (2016)</h2></center>
