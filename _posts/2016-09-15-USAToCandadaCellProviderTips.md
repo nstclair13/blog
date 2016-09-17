@@ -16,7 +16,7 @@ custom_js:
 ---
 <h1 class="major">Relocating from USA to Canada: Cell Phone Tips</h1>
 <div>
-    <span class="image fit_half">
+    <span class="image fit">
         <img src="https://r3.whistleout.ca/public/images/responsive/megahome/megahome-providers.png" alt="Image of Cell Phone Provider Logos"/>
     </span>
 </div>
