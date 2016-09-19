@@ -17,7 +17,7 @@ custom_js:
 
 <h1 class="major">Alice Through The Looking Glass: AWN Interview with Troy Saliba </h1>
 
-<div><center><span class="image fit"><figure class="imghvr-strip-shutter-up"><img src="http://cdn.awn.com/sites/default/files/styles/inline_wide/public/image/attached/1030958-attlg-ff-4-1200.jpg?itok=RRu69OnW" alt="'Alice Through the Looking Glass.’ All images © 2016 Disney Enterprises, Inc. All Rights Reserved." /></center>
+<div><span class="image"><figure class="imghvr-strip-shutter-up"><img src="http://cdn.awn.com/sites/default/files/styles/inline_wide/public/image/attached/1030958-attlg-ff-4-1200.jpg?itok=RRu69OnW" alt="'Alice Through the Looking Glass.’ All images © 2016 Disney Enterprises, Inc. All Rights Reserved." />
                                                 <figcaption>
                                                     
                                                     <center>
