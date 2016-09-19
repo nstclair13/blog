@@ -43,5 +43,5 @@ I hope to have my demo reel from the show up soon; I'll update this post as well
 
 -Nick
 
-**[Link to article](http://www.awn.com/vfxworld/troy-saliba-talks-animation-alice-through-looking-glass)** by © Dan Sarto 
+**[Link to article](http://www.awn.com/vfxworld/troy-saliba-talks-animation-alice-through-looking-glass)** by © Dan Sarto   
 **[Sony Pictures Imageworks](http://www.imageworks.com/shows.php?p=current-shows&s=alicethroughthelookingglass)**: Dedicated page about Alice Through The Looking Glass on Sony Pictures Imageworks website.
