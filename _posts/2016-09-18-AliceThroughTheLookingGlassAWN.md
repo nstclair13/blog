@@ -17,7 +17,7 @@ custom_js:
 
 <h1 class="major">Alice Through The Looking Glass: Interview with Animation Director Troy Saliba by Dan Sarto </h1>
 
-<center><div><span class="image"><figure class="imghvr-strip-shutter-up"><img src="http://cdn.awn.com/sites/default/files/styles/inline_wide/public/image/attached/1030958-attlg-ff-4-1200.jpg?itok=RRu69OnW" alt="'Alice Through the Looking Glass.’ All images © 2016 Disney Enterprises, Inc. All Rights Reserved." />
+<div><span class="image"><figure class="imghvr-strip-shutter-up"><center><img src="http://cdn.awn.com/sites/default/files/styles/inline_wide/public/image/attached/1030958-attlg-ff-4-1200.jpg?itok=RRu69OnW" alt="'Alice Through the Looking Glass.’ All images © 2016 Disney Enterprises, Inc. All Rights Reserved." /></center>
                                                 <figcaption>
                                                     
                                                     <center>
@@ -35,7 +35,7 @@ custom_js:
                                                 </figcaption>
                                                 <a href="http://www.awn.com/vfxworld/troy-saliba-talks-animation-alice-through-looking-glass" target="_blank"></a>
                                             </figure>
-                                            </span></div></center>
+                                            </span></div>
 
 I was originally hired by Sony to start on this show but was quickly put on Pixels for a couple of short months to help finish it off. When I finally joined the crew it was well into production and I had to dive into the deep end. This show was by far the biggest one that I've been a part of, at one point there were well over 50 animators working on it at the same time.  
 
