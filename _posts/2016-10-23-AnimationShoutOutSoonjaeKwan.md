@@ -15,7 +15,7 @@ custom_js:
 - lity
 ---
 
-<div><center><span class="image"><figure class="imghvr-strip-shutter-up"><img src="/images/shoutout_001.jpg" alt="Animation Reel of Soonjae Kwon" />
+<div><center><span class="image"><figure class="imghvr-strip-shutter-up"><img src="{{site.url}}/images/shoutout_001.jpg" alt="Animation Reel of Soonjae Kwon" />
                                                 <figcaption>
                                                     
                                                     <h2 class="ih-fade-down ih-delay-sm">Animation Reel from Soonjae Kwon</h2>
