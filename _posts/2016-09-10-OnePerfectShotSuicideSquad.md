@@ -45,7 +45,6 @@ After using the pointcloud software on the show I really want to setup a capture
 
 
 
--Nick
 
 **[Link to article](http://oneperfectshotdb.com/news/suicide-squad-and-the-art-of-vfx-how-imageworks-created-some-of-the-biggest-scenes/)** by © Ian Failes – OnePerfectShotDB.com (9/2/2016)  
 **[Sony Pictures Imageworks](http://imageworks.com/shows.php?p=current-shows&s=suicidesquad)**: Dedicated page about SUICIDE SQUAD on Sony Pictures Imageworks website.

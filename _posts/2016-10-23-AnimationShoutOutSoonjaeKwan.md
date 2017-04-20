@@ -30,10 +30,10 @@ custom_js:
 
 
 <p></p>
-Every now and then I come across an exceptional demo reel or piece of animation that I think deserves a shout out. This time I'd like to share a link to the work of **[Soonjae Kwan](https://vimeo.com/167209402)**. I really enjoyed the creature work on his reel, especially the griffon shot and the lion chasing the guy on the motorcycle. Nice work!
+Every now and then I come across an exceptional demo reel or piece of animation that I think deserves a shout out. This time I'd like to share a link to the work of **[Soonjae Kwan](https://vimeo.com/167209402)**. I really enjoyed the creature work on his reel, especially the griffon shot and the lion chasing the guy on the motorcycle. The entire thing was filled with unique pieces and although the characters were clearly from some online schools, the work was really well executed. It's a rareity to come across beginning animator's work of such a high standard, especially with complex creatures and camera/stagings. Super Nice work!
 
 Here's a link to **[more of his work](https://vimeo.com/skwon)**.
 
-Check it out!
+Go check him out and don't forget to come back for future shout outs!
 
--Nick
+

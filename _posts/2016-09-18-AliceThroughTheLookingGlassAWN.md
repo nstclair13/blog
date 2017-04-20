@@ -43,7 +43,7 @@ The first week we received a training shot for one of the characters which was t
 
 I hope to have my demo reel from the show up soon; I'll update this post as well as create another when that time comes.
 
--Nick
+
 
 **[Link to article](http://www.awn.com/vfxworld/troy-saliba-talks-animation-alice-through-looking-glass)** by © Dan Sarto   
 **[Sony Pictures Imageworks](http://www.imageworks.com/shows.php?p=current-shows&s=alicethroughthelookingglass)**: Dedicated page about Alice Through The Looking Glass on Sony Pictures Imageworks website.

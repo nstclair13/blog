@@ -47,8 +47,6 @@ I plan to share a little bit more information about my experiences as an expat w
 So with that, stay tuned. More to follow!
 
 
--Nick
 
 
-*__Disclaimer:__* Moving for work in the VFX industry isn't for everyone. It's a constant cycle of displacement following companies whom chase subsidies. I'm not here to talk about what needs to be done to fix it nor am I trying to make it sound glamorous. I'm just here to try and share my perspective on some topics that might be helpful to some.
 
