@@ -12,7 +12,9 @@ changefreq: weekly
         <h2><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2> 
         <h5>{{ post.date | date: "%A, %B %-d, %Y" }}</h5>
         <p>{{post.meta}}</p>
+        <a href="https://twitter.com/nstclair13" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @nstclair13</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         <h5><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></h5>
+        
         <hr />
     </li>
     {% endfor %}
