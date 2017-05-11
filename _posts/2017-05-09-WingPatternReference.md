@@ -20,7 +20,7 @@ This image is an old one as I recall seeing it make the rounds online awhile ago
 <br />
 <div>
     <span class="image fit">
-        <img src="/images/lEanx42.gif" />
+        <img src="/blog/images/lEanx42.gif" />
     </span>
 </div>
 
