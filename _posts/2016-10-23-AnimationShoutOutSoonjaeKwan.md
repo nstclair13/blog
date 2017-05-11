@@ -2,6 +2,7 @@
 layout: default_posts
 title: Animation Shout Out! - Soonjae Kwan Animation Reel
 meta: An exceptional piece of animation that deserves a shout out!
+description: An exceptional piece of animation that deserves a shout out!
 category: Shout Out
 custom_css:
 - lity
