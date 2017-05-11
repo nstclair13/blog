@@ -2,6 +2,7 @@
 layout: default_posts
 title: Animation Industry Job Postings - Spreadsheet by Chris Mayne
 meta: Here is a fantastic resource if you are looking for an animation industry job. Spreadsheet complements of Chris Mayne.
+description: Here is a fantastic resource if you are looking for an animation industry job. Spreadsheet complements of Chris Mayne.
 category: Job Searching
 custom_css:
 custom_js:
