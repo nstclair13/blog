@@ -1,7 +1,7 @@
 ---
 layout: default_posts
-title: Reference: Flying Creatures &amp; Wing Patterns
-meta: A wonderful study of creatures in flight and their wing patterns in .GIF format. Beautiful reference for any flying creature/character you are working on.
+title: Reference: Flying Creatures Wing Patterns
+meta: A wonderful study of creatures in flight and their wing patterns in .GIF format. Beautiful reference for any flying character you are working on.
 category: reference
 custom_css:
 - lity
