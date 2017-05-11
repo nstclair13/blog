@@ -1,2 +1,2 @@
 # blog
-An animator abroad blog
+The Animation Expat Blog
