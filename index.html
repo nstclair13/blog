@@ -14,7 +14,7 @@ changefreq: weekly
         <p>{{post.meta}}</p>
         <a href="https://twitter.com/nstclair13" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true">Follow @nstclair13</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         <h5><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></h5>
-        
+        {% include twitter_card.html %}
         <hr />
     </li>
     {% endfor %}
