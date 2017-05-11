@@ -2,6 +2,7 @@
 layout: default_posts
 title: Relocating from USA to Canada&#58; Cell Phone Provider Tips
 meta: Relocating to Canada? I've compiled a brief overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada.
+description: Relocating to Canada? I've compiled a brief overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada.
 category: US Expat Tips
 custom_css:
 - lity
