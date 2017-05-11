@@ -2,6 +2,7 @@
 layout: default_posts
 title: Work Update - Spider-Man&#58; Homecoming
 meta: Read about the latest project I am working on! Spider-Man&#58; Homecoming!
+description: Read about the latest project I am working on! Spider-Man&#58; Homecoming!
 category: latest work
 custom_css:
 - lity
