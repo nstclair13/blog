@@ -2,8 +2,7 @@ markdown: kramdown
 baseurl: /blog
 exclude: ['README.md']
 permalink: pretty
-name: Animation Abroad Blog
-description: Created by Nicholas St. Clair. A blog about living abroad while working in the animation industry. Other topics include things related to animation, vfx, tech, and other random tidbits!
+name: The Animation Expat Blog
 url: http://www.nick-st-clair.com/blog/
 
  
