@@ -2,6 +2,7 @@
 layout: default_posts
 title: Work Update - Kingsman&#58; The Golden Circle
 meta: Read about the latest project I am working on! Kingsman&#58; The Golden Circle
+description: Read about the latest project I am working on! Kingsman&#58; The Golden Circle
 category: latest work
 custom_css:
 - lity
