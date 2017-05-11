@@ -1,6 +1,7 @@
 ---
 layout: default_posts
 title: Dose of Inspiration&#58; The Etherington Brothers
+description: testing
 meta: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
 category: inspiration
 custom_css:
