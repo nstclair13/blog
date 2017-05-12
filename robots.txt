@@ -1,2 +1,7 @@
 Sitemap: http://www.nick-st-clair.com/blog/sitemap.xml
 User-agent: *
+
+User-agent: Twitterbot
+Disallow: *
+
+Allow: /images
