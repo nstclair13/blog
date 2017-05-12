@@ -21,12 +21,13 @@ This image is an old one as I recall seeing it make the rounds online awhile ago
 <br />
 <div>
     <span class="image fit_half">
-        <img src="/blog/images/lEanx42.gif" />
+![image tooltip here](/images/lEanx42.gif)
+
     </span>
    
 </div>
 
-![image tooltip here](/images/lEanx42.gif)
+
 
 
 
