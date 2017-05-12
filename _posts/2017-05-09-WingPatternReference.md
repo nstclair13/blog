@@ -21,6 +21,7 @@ This image is an old one as I recall seeing it make the rounds online awhile ago
 <br />
 <div>
     <span class="image fit_half">
+
 ![image tooltip here](/images/lEanx42.gif)
 
     </span>
