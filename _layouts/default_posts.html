@@ -38,7 +38,6 @@
   });
 </script>
         
-		<!-- Twitter cards metadatas -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@nstclair13">
 <meta name="twitter:creator" content="@nstclair13">
@@ -56,9 +55,11 @@
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 {% if page.image %}
-  <meta name="twitter:image" content="{{ site.baseurl }}/images/{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }}">
 {% else % }
-  <meta name="twitter:image" content="{{ site.baseurl }}/images/avatar.jpg">
+  <meta name="twitter:image" content="{{ site.url }}/images/avatar.jpg">
+{% else % }
+  <meta name="twitter:image" content="{{ site.url }}/images/avatar.jpg">
 {% endif %}
 		
         
