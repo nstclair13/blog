@@ -1,6 +1,7 @@
 ---
 layout: default_posts
 title: Suicide Squad&#58; One Perfect Shot Interview
+image: http://33hpwq10j9luq8gl43e62q4e-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/04Z4Qrmv4Rsrf710q.jpg
 meta: Here is an interesting interview from OnePerfectShotDB.com about the VFX work done on Suicide Squad and some new interesting techniques.
 description: Here is an interesting interview from OnePerfectShotDB.com about the VFX work done on Suicide Squad and some new interesting techniques.
 category: VFX Interview
