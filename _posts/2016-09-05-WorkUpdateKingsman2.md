@@ -1,6 +1,7 @@
 ---
 layout: default_posts
 title: Work Update - Kingsman&#58; The Golden Circle
+image: http://ia.media-imdb.com/images/M/MV5BNTg5NzEwNTA4NV5BMl5BanBnXkFtZTgwNzU4NDY1ODE@._V1_SX675_CR0,0,675,999_AL_.jpg
 meta: Read about the latest project I am working on! Kingsman&#58; The Golden Circle
 description: Read about the latest project I am working on! Kingsman&#58; The Golden Circle
 category: latest work
