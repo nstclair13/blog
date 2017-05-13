@@ -1,6 +1,7 @@
 ---
 layout: default_posts
 title: Dose of Inspiration&#58; The Etherington Brothers
+image: https://2.bp.blogspot.com/-Rm5NcRKNwGY/WGw-nl7LCHI/AAAAAAAAIPc/7xcyC0ljfP4Ha11TnRSEAoaAXqx3qcBCACLcB/s1600/HOW%2Bto%2Bdraw%2Bfabric%2Bfolds%2Bclothing%2B3%2Btutorial%2Blorenzo%2Betherington.jpg
 meta: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
 description: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
 category: inspiration
@@ -21,9 +22,7 @@ As an animator, I am constantly looking for ways to improve my skillset and unde
 
 I'm not completely sure how I stumbled upon them but I really wanted to share it here; **[The Etherington Brothers Blog](http://theetheringtonbrothers.blogspot.ca/)**. 
 
-The site has a TON of awesome drawings, sketches and flat out amazing artwork. My favorite posts of theirs have to be the "How to THINK when you DRAW" series of illustrations they post. Simply put, it's a goldmine of information!
-
-I've posted a few of the tutorial images below but go check out there blog to look at all of them. Seriously, do it!
+The site has a TON of awesome drawings, sketches and flat out amazing artwork. My favorite posts of theirs have to be the "How to THINK when you DRAW" series of illustrations they post. Simply put, it's a goldmine of information! I've posted a few of the tutorial images below but go check out there blog to look at all of them. Seriously, do it!
 
 Also, while you're at it, follow them on Twitter! **[@EtheringtonBrothers](https://twitter.com/EtheringtonBros)**
  
