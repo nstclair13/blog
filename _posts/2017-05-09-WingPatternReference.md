@@ -23,7 +23,7 @@ This image is an old one as I recall seeing it make the rounds online awhile ago
 <div>
     <span class="image fit_half">
 
-![Wing Reference GIF](http://tabletopwhale.com/img/posts/09-29-14.gif)
+![WingReferenceGIF](http://tabletopwhale.com/img/posts/09-29-14.gif)
 
     </span>
    
