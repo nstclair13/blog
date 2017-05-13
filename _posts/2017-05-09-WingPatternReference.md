@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Reference&#58; Flying Creatures Wing Patterns
-image: /images/shoutout_001.jpg
+image: /blog/images/shoutout_001.jpg
 meta: A study of creatures in flight and their wing patterns in .GIF format. Helpful reference for any flying character you are working on.
 description: A study of creatures in flight and their wing patterns in .GIF format. Helpful reference for any flying character you are working on.
 category: reference
