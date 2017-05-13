@@ -1,6 +1,7 @@
 ---
 layout: default_posts
-title: Alice Through The Looking Glass&#58; Interview with Animation Director Troy Saliba 
+title: Alice Through The Looking Glass&#58; Interview with Animation Director Troy Saliba
+image: http://cdn.awn.com/sites/default/files/styles/inline_wide/public/image/attached/1030958-attlg-ff-4-1200.jpg?itok=RRu69OnW
 meta: Here is an interesting interview posted over at AWN.com with Troy Saliba about the animation work done on Alice Through The Looking Glass by Dan Sarto.
 description: Here is an interesting interview posted over at AWN.com with Troy Saliba about the animation work done on Alice Through The Looking Glass by Dan Sarto.
 category: VFX Interview
