@@ -1,6 +1,7 @@
 ---
 layout: default_posts
 title: Work Update - Spider-Man&#58; Homecoming
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BNDUzOTE5OTk1NF5BMl5BanBnXkFtZTgwNzgwNzA4MDI@._V1_.jpg
 meta: Read about the latest project I am working on! Spider-Man&#58; Homecoming!
 description: Read about the latest project I am working on! Spider-Man&#58; Homecoming!
 category: latest work
