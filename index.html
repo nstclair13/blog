@@ -9,7 +9,7 @@ changefreq: weekly
 <ul>
     {% for post in site.posts %}
     <li>
-        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2> 
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h3> 
         <h5>{{ post.date | date: "%A, %B %-d, %Y" }}</h5>
         <p>{{post.meta}}</p>
         <a href="https://twitter.com/nstclair13" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true">Follow @nstclair13</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
