@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: VFX in Vancouver&#58; NAFTA Work Permits
-image: https://upload.wikimedia.org/wikipedia/en/e/e2/Flags_north_america.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/3b/Canada_and_USA_Flag.png
 meta: Want to come up to Vancouver for VFX / Animation work? Come get clarity on the requirements needed to work across the border as an expat animator or vfx artist
 description: Do you want to come up to Vancouver for Animation or VFX work? I try to provide some clarity and personal experiences on the requirements needed to work across the border as an expat animator or vfx artist.
 category: Expat Help
@@ -18,7 +18,7 @@ custom_js:
 ---
 <h1 class="major">VFX in Vancouver: NAFTA Work Permits</h1>
 <div>
-<span class="image left"><img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Flags_north_america.jpg" alt="USA/Canada Flag" />                    
+<span class="image left"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canada_and_USA_Flag.png" alt="USA/Canada Flag" />                    
 </span>
 </div>
 
