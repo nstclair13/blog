@@ -2596,7 +2596,7 @@
 	}
 
 		.image img {
-			border-radius: 1em;
+			border-radius: 0.5em;
 			display: block;
 		}
 
