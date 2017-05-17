@@ -44,7 +44,7 @@ If you are lucky, the company you are moving for will provide you with some sort
 ## Last Steps
 Once you have all of your documents in order, you just need to go to the border and tell the immigration office you'd like to apply for a work permit. They'll flag you through, you'll go in, present your materials, wait a bit for them to go through it, and they will either approve or deny you on the spot. If approved, pay the necessary fee. Work permits can be given from a couple months to 3 years in duration. This will coincide with the offer of employment you received from the Canadian employer you are relocating for.
 
-One thing to note,and this is important, NAFTA work permits are _*TEMPORARY*_.  You must be extremely, extremely clear with the officers that you understand this and that you must leave when the permit expires. Be ready to provide proof that you still have ties to the United States or Mexico, such as bank accounts, family ties, past work experience, etc. 
+One thing to note,and this is important, NAFTA work permits are __*TEMPORARY*__.  You must be extremely, extremely clear with the officers that you understand this and that you must leave when the permit expires. Be ready to provide proof that you still have ties to the United States or Mexico, such as bank accounts, family ties, past work experience, etc. 
 
 Additional Links
 * **[Canada Visa NAFTA Professionals](http://www.canadavisa.com/nafta-professionals.html)** 
@@ -52,8 +52,8 @@ Additional Links
 
 As always, it's best to consult an immigration professional if you are considering the move and aren't fully comfortable figuring out the process yourself. With a little digging around the CIC website as well as this post plus cheat sheet link, I'm confident you can!
 
-Best of luck! 
+
 
 Please leave comments or questions below, I'll gladly answer them and update this post if necessary.
 
-<sub>***Disclaimer: I am not a lawyer or immigration expert. I am merely posting based on my own personal experiences and understanding of the topic. This post is meant to give you some broad knowledge and is not to be considered 100% definitive. Please seek out the correct legal professionals if any of the topics below require concrete answers based on your own personal situation***</sub>
+<sub>*Disclaimer: I am not a lawyer or immigration expert. I am merely posting based on my own personal experiences and understanding of the topic. This post is meant to give you some broad knowledge and is not to be considered 100% definitive. Please seek out the correct legal professionals if any of the topics below require concrete answers based on your own personal situation*</sub>
