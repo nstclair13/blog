@@ -16,10 +16,7 @@ custom_js:
 - lity
 ---
 <h1 class="major">Anim Expat Advice: NAFTA Work Permits - Vancouver Edition</h1>
-
-Vancouver Advice: NAFTA Work Permits for Animators (Others too!)
-
-**Disclaimer: I am not a lawyer or immigration expert. I am merely posting based on my own personal experiences and understanding of the topic. This post is meant to give you some broad knowledge and is not to be considered 100% definitive. Please seek out the correct legal professionals if any of the topics below require concrete answers based on your own personal situation.***
+<sub>**Disclaimer: I am not a lawyer or immigration expert. I am merely posting based on my own personal experiences and understanding of the topic. This post is meant to give you some broad knowledge and is not to be considered 100% definitive. Please seek out the correct legal professionals if any of the topics below require concrete answers based on your own personal situation.***</sub>
 
 
 When I first was looking to move up north to Vancouver, I found it very difficult to find information on the requirements needed to work there as an animator. While the CIC website has all the information you need about immigration, visas, and work permits, it isn't presented in the simplest format nor does it speak directly about people in the animation industry - animators. I've tried to explain the process in simple format for those of you curious about making the shift from the States to Hollywood North. The majority of the post below will pertain to animators or people within the anim/vfx industries, it can also be helpful for those of you looking to come in for a different career field as well.
