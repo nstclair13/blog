@@ -22,13 +22,13 @@ custom_js:
 </span>
 </div>
 
-When I first was looking to move up north to Vancouver, I found it very difficult to find information on the requirements needed to work there as an animator. While the CIC website has all the information you need about immigration, visas, and work permits, it isn't presented in the simplest format nor does it speak directly about people in the animation industry - animators. I've tried to explain the process in simple format for those of you curious about making the shift from the States to Hollywood North. The majority of the post will pertain to animators or people within the anim/vfx industry, but it can also be helpful for those of you in different fields.
+When I first was looking to move up north to Vancouver, I found it difficult to find information on the requirements needed to work there as an animator. The [CIC website](http://www.cic.gc.ca/english/) has all the information you need about immigration, visas, and work permits, but it isn't presented in the simplest format nor does it speak directly about people in the animation industry - animators. I've tried to explain the process in a simple, easy to understand format for those of you curious about making the shift from the States to "Hollywood North". The majority of this post will pertain to animators or people within the anim/vfx industry, but it can also be helpful for those of you in different fields.
 
-All in all, coming up to Vancouver as an American is actually quite streamlined thanks to NAFTA (the North American Free Trade Agreement) which is an agreement made between Canada, the United States, and Mexico that allows for workers and goods to be easily traded between countries. This is an extreme oversimplification but I'm trying to keep it simple here! This agreement has recently been in the news with Trump and his nationalism mindset but that's a topic for another time. As of this posting there has not been any changes to the agreement that you need to worry about but maybe in the future there will be a follow up post required. Les hope not.
+Altogether, coming up to Vancouver as an American is quite streamlined thanks to NAFTA (the North American Free Trade Agreement) which is an agreement made between Canada, the United States, and Mexico that allows for workers and goods to be easily traded between countries. This is an extreme oversimplification but it get's the concept across. This agreement has recently been in the news with Trump and his nationalism mindset but that's a topic for another time. At the time of this post there has not been any changes to the agreement that you need to worry about but maybe in the future there will be a follow up post required. Lets hope not.
 
 So let's begin!
 
-The list of requirements is not a very long one at all. To qualify for a work permit under NAFTA Professionals you need the following:
+The list of requirements is not a very long one at all. To qualify for a work permit under a NAFTA Professional you need the following:
 
 * a valid job offer from a Canadian Employer 
 * a 4 Year Bachelor's Degree or a Post Secondary Certificate & 3 Years of Work Experience
