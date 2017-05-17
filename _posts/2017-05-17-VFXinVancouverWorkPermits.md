@@ -59,6 +59,6 @@ As always, it's best to consult an immigration professional if you are consideri
 
 
 
-Please leave comments or questions below, I'll gladly answer them and update this post if necessary.
+Please leave comments or questions below, I'll gladly answer them and update this post if necessary. This is the first of a series of posts so make sure to check back!
 
 <sub>*Disclaimer: I am not a lawyer or immigration expert. I am merely posting based on my own personal experiences and understanding of the topic. This post is meant to give you some broad knowledge and is not to be considered 100% definitive. Please seek out the correct legal professionals if any of the topics below require concrete answers based on your own personal situation*</sub>
