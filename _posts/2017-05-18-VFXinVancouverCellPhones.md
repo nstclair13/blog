@@ -18,7 +18,7 @@ custom_js:
 ---
 <h1 class="major">VFX in Vancouver: Cellular Service & Phone Tips</h1>
 <div>
-    <span class="image fit left">
+    <span class="image fit">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IPhone_7_and_iPhone_7_Plus_%28close-up%29.jpg" alt="Smartphones"/>
     </span>
 </div>
