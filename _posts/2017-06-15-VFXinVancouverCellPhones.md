@@ -1,10 +1,10 @@
 ---
 layout: default_posts
-title: Relocating from USA to Canada&#58; Cell Phone Provider Tips
+title: VFX in Vancouver&#58; Cell Phones and Cellular Service
 image: https://upload.wikimedia.org/wikipedia/commons/5/51/IPhone_7_and_iPhone_7_Plus_%28close-up%29.jpg
-meta: Relocating to Canada? I've compiled a brief overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada.
-description: Relocating to Canada? I've compiled a brief overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada.
-category: US Expat Tips
+meta: Relocating to Vancouver? I've compiled an overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada. The second in a series of posts titled VFX in Vancouver.
+description: Relocating to Vancouver? I've compiled an overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada. The second in a series of posts titled VFX in Vancouver.
+category: VFX in Vancouver
 custom_css:
 - lity
 custom_js:
@@ -16,9 +16,9 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Relocating from USA to Canada: Cell Phone Tips</h1>
+<h1 class="major">VFX in Vancouver: Cellular Service & Phone Tips</h1>
 <div>
-    <span class="image fit">
+    <span class="image fit left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IPhone_7_and_iPhone_7_Plus_%28close-up%29.jpg" alt="Smartphones"/>
     </span>
 </div>
@@ -63,8 +63,6 @@ If you are like me then you don't really use your phones actual minutes that oft
 
 * ShawOpen WiFi is **_a great supplement_** to your data plan. If you use Shaw as an Internet provider you gain the ability to use any wifi hotspot in Vancouver. Once you set it up with your device's information, it automatically connects and switches between hotspots for you just like cell service automatically switches towers. Downtown Vancouver has a lot of coverage so it's quite a useful perk if you find yourself with little data on your plan.
 
-Hopefully some of these tips will be useful to you. I have a write up and review coming on my switch to **[WIND Mobile](https://www.windmobile.ca)** so check back if your interested in knowing how it fares in Vancouver. I also plan on doing a little write up on Google Voice, how to set it up and it's perks.
+Hopefully some of these tips will be useful to you. Check back for more posts in this series.
 
 More to come!
-
-
