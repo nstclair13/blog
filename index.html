@@ -15,6 +15,17 @@ changefreq: weekly
         <a href="https://twitter.com/nstclair13" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true">Follow @nstclair13</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         <h5><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></h5>
         
+        <div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
         <hr />
     </li>
     {% endfor %}
