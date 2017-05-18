@@ -4,7 +4,7 @@ title: VFX in Vancouver&#58; Cell Phones and Cellular Service
 image: https://upload.wikimedia.org/wikipedia/commons/5/51/IPhone_7_and_iPhone_7_Plus_%28close-up%29.jpg
 meta: Relocating to Vancouver? I've compiled an overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada. The second in a series of posts titled VFX in Vancouver.
 description: Relocating to Vancouver? I've compiled an overview of cell phone service providers here in Vancouver plus some helpful tips for US Expats in Canada. The second in a series of posts titled VFX in Vancouver.
-category: VFX in Vancouver, Expat Help
+category: [VFX in Vancouver, Expat Help]
 custom_css:
 - lity
 custom_js:
