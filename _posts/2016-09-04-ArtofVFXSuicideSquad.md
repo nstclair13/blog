@@ -4,7 +4,7 @@ title: Suicide Squad&#58; Art of VFX Interview
 image: http://artofvfx.com/wp-content/uploads/2016/08/SuicideSquad_SPI_VFX_03.jpg
 meta: Here is a fun interview from Art of VFX with Mark Breakspear about the work done on Suicide Squad. 
 description: Here is a fun interview from Art of VFX with Mark Breakspear about the work done on Suicide Squad. 
-category: VFX Interview
+category: VFX Interviews
 custom_css:
 - lity
 custom_js:
