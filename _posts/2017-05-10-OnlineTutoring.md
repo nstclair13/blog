@@ -3,7 +3,7 @@ layout: default_posts
 title: Personalized Online Tutoring Sessions Now Available!
 meta: Big News! I am now offering personalized online tutoring sessions!
 description: Big News! I am now offering personalized online tutoring sessions!
-category: Site Update
+category: Site Updates
 custom_css:
 - lity
 custom_js:
