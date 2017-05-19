@@ -3,7 +3,7 @@ layout: default_posts
 title: Introduction 
 meta: Hello and welcome to the Animation Expat blog! My name is Nicholas St. Clair. Come learn a little about me and take a look and see what this blog is about.
 description: Welcome to the Animation Expat Blog!
-category: introduction
+category: Introduction
 custom_css:
 - lity
 custom_js:
