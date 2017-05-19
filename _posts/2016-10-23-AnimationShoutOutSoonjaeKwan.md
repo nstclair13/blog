@@ -4,7 +4,7 @@ title: Animation Shout Out! - Soonjae Kwan Animation Reel
 image: /images/shoutout_001.jpg
 meta: An exceptional piece of animation that deserves a shout out!
 description: An exceptional piece of animation that deserves a shout out!
-category: Shout Out
+category: Shout Outs!
 custom_css:
 - lity
 custom_js:
