@@ -7,7 +7,7 @@ changefreq: weekly
 permalink: /categories/
 title: Categories
 ---
-
+<ul>
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
@@ -25,6 +25,7 @@ title: Categories
   </div>
 {% endfor %}
 </div>
+</ul>
 
 <ul>
     {% for post in site.posts %}
