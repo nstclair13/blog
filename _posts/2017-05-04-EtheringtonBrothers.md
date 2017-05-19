@@ -4,7 +4,7 @@ title: Dose of Inspiration&#58; The Etherington Brothers
 image: https://2.bp.blogspot.com/-Rm5NcRKNwGY/WGw-nl7LCHI/AAAAAAAAIPc/7xcyC0ljfP4Ha11TnRSEAoaAXqx3qcBCACLcB/s1600/HOW%2Bto%2Bdraw%2Bfabric%2Bfolds%2Bclothing%2B3%2Btutorial%2Blorenzo%2Betherington.jpg
 meta: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
 description: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
-category: inspiration
+category: Inspiration
 custom_css:
 - lity
 custom_js:
