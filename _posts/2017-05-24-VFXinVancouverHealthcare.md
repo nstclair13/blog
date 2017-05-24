@@ -18,7 +18,7 @@ custom_js:
 ---
 <h1 class="major">VFX in Vancouver: Healthcare</h1>
 <div>
-<span class="image left fit_half"><img src="http://i.huffpost.com/gen/2759640/images/o-CANADIAN-HEALTHCARE-facebook.jpg" alt="Canada Healthcare Pill Logo" />                    
+<span class="image left"><img src="http://i.huffpost.com/gen/2759640/images/o-CANADIAN-HEALTHCARE-facebook.jpg" alt="Canada Healthcare Pill Logo" />                    
 </span>
 </div>
 
