@@ -25,7 +25,7 @@ custom_js:
 Ahhh healthcare. One of the most significant differences between the United States and Canada. As most of you reading this probably already knows, it's done a lot differently up in Canada. There are many similarities and differences, plus some common misconceptions I think are worth discussing. In reality, it's an important topic and can be a big consideration if thinking of relocating. This post is mostly for US Residents coming up North and may not cover all topics MSP related.
 
 So let's dive in, yeah?
-
+<hr>
 ## Overview
 First and foremost, healthcare in Canada is a universal healthcare system. That means that there's only one place you get insurance from - the Government- and everyone is eligible with the same premium costs per month, per person. This is a stark contrast to the United States where it is a privitized business with many, many insurers and options. 
 
