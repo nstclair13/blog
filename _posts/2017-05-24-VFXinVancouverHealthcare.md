@@ -1,7 +1,7 @@
 ---
 layout: default_posts
-title: VFX in Vancouver&#58; Healthcare
-image: 
+title: VFX in Vancouver&#58; Healthcare Differences
+image: http://i.huffpost.com/gen/2759640/images/o-CANADIAN-HEALTHCARE-facebook.jpg
 meta: 
 description: 
 category: Expat Help
@@ -18,7 +18,7 @@ custom_js:
 ---
 <h1 class="major">VFX in Vancouver: Healthcare</h1>
 <div>
-<span class="image left"><img src="" alt="" />                    
+<span class="image fit_half left"><img src="http://i.huffpost.com/gen/2759640/images/o-CANADIAN-HEALTHCARE-facebook.jpg" alt="Canada Healthcare Pill Logo" />                    
 </span>
 </div>
 
@@ -55,5 +55,7 @@ The overall health cover here in BC, and Canada in general, works fantastically 
 It's not a perfect system by any means; seeing specialists can take awhile, depending where you live there may be long waits to see a doctor,  - but in the end, not having to worry about healthcare as one of the most expensive parts of your monthly expenses or whether or not you can get coverage if you lose your job - is an amazing concept.
 
 Comments? Additional details I didn't prove you think are worthy additions? Drop a line below and I'll add them!
+
+<sub>Image compliments of [Huffington Post](http://www.huffingtonpost.ca/robert-mcmurtry/federal-election-healthcare_b_6932240.html)</sub>
 
 
