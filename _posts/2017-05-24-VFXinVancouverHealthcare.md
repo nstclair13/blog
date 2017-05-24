@@ -2,8 +2,8 @@
 layout: default_posts
 title: VFX in Vancouver&#58; Healthcare Differences
 image: http://i.huffpost.com/gen/2759640/images/o-CANADIAN-HEALTHCARE-facebook.jpg
-meta: 
-description: 
+meta: Come and get a basic understanding of the universal healthcare offered in Vancouver, BC / Canada when relocating to from the United States as an expat. This post is meant to give you a primer on topic.
+description: Come and get a basic understanding of the universal healthcare offered in Vancouver, BC / Canada when relocating to from the United States as an expat. This post is meant to give you a primer on topic.
 category: Expat Help
 custom_css:
 - lity
