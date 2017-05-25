@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: VFX in Vancouver&#58; Healthcare Overview
+title: VFX in Vancouver&#58; Healthcare 
 image: http://i.huffpost.com/gen/2759640/images/o-CANADIAN-HEALTHCARE-facebook.jpg
 meta: Come and get a basic understanding of the universal healthcare offered in Vancouver when relocating from the United States as an expat. This post is meant to give you a primer on topic.
 description: Come and get a basic understanding of the universal healthcare offered in Vancouver when relocating from the United States as an expat. This post is meant to give you a primer on topic.
