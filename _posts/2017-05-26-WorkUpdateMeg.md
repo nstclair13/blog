@@ -2,8 +2,8 @@
 layout: default_posts
 title: Work Update - Meg
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BNDBkYjBiYjQtZjQzZC00NTExLWE2OGEtZTZiZmEwYzk3Y2ZkXkEyXkFqcGdeQXVyNjkzNTUxNjQ@._V1_SY1000_CR0,0,1333,1000_AL_.jpg
-meta: Come read about the latest project I am working on! Spiderman: Homecoming is over and I'm now moving onto Meg!
-description: Come read about the latest project I am working on! Spiderman: Homecoming is over and I'm now moving onto Meg!
+meta: Come read about the latest project I am working on! Spiderman Homecoming is over and I'm now moving onto Meg!
+description: Come read about the latest project I am working on! Spiderman Homecoming is over and I'm now moving onto Meg!
 category: Work Updates
 custom_css:
 - lity
