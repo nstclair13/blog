@@ -51,7 +51,7 @@ I personally haven't used a brick and mortar based bank in over a decade as I fi
 
 
 ## Savings Accounts
-Overall, savings work the same way in both countries. Like the States, there is a limit of 6 transactions per month for savings accounts due to regulatory requirements, otherwise the account should be classified as a checking account. The same e-transfer options are used and just require an email of the sender to utilize, regardless of banking institution. CDIC also guarantees up to $100,000 per account in the event of the bank's failure. Lastly, interest rates are low, just like the States and a 0.10% to 1% interest rate (at the time of this post) is what you can expect to get from regular savings accounts. Again, prettyyy straight forward stuff. 
+Overall, savings accounts work the same way in both countries. Like the States, there is a limit of 6 transactions per month for savings accounts due to regulatory requirements, otherwise the account should be classified as a checking account. The same e-transfer options are used and just require an email of the sender to utilize, regardless of banking institution. CDIC also guarantees up to $100,000 per account in the event of the bank's failure. Lastly, interest rates are low, just like the States and a 0.10% to 1% interest rate (at the time of this post) is what you can expect to get from regular savings accounts. Again, prettyyy straight forward stuff. 
 
 
 # Other Accounts 
