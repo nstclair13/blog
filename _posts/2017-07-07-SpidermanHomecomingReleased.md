@@ -30,7 +30,7 @@ Shoutout to all of the animators at Sony Imageworks who contributed to the proje
 
 **[Richard Smith](http://www.imdb.com/name/nm2242449/)** - Animation Supervisor  
 **[Julius Kwan](http://www.imdb.com/name/nm2698861/)** - Animation Lead (my partner in crime!)  
-**[Nicholas St. Clair](http://www.imdb.com/name/nm4368640/)** - Animation Lead (That's me)
+**[Nicholas St. Clair](http://www.imdb.com/name/nm4368640/)** - Animation Lead (That's me)  
 **[Zac Overcash](http://www.imdb.com/name/nm4392532/)**  
 **[David Gimenez](http://www.imdb.com/name/nm4576119/)**  
 **[Eric Huang](http://www.imdb.com/name/nm3513325/)**  
