@@ -29,7 +29,7 @@ This project was also special for another reason, and that is because it was my 
 Shoutout to all of the animators at Sony Imageworks who contributed to the project - it was a grueling schedule full of tough weeks but it wouldn't have been possible without all of the hardwork from the people below! 
 
 **[Richard Smith](http://www.imdb.com/name/nm2242449/)** - Animation Supervisor  
-**[Shauna Tingey](https://ca.linkedin.com/in/shauna-tingey-12864a28) - (Super Coord!!)  
+**[Shauna Tingey](https://ca.linkedin.com/in/shauna-tingey-12864a28)** - (Super Coord!!)  
 **[Julius Kwan](http://www.imdb.com/name/nm2698861/)** - Animation Lead (my partner in crime!)  
 **[Nicholas St. Clair](http://www.imdb.com/name/nm4368640/)** - Animation Lead (That's me)  
 **[Zac Overcash](http://www.imdb.com/name/nm4392532/)**  
