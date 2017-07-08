@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: Spiderman: Homecoming Released!
+title: Spiderman Homecoming Released!
 image: https://i.kinja-img.com/gawker-media/image/upload/ejoqbsacmv0kqbcxk2ao.jpg
 meta: Spiderman Homecoming is finally in theaters!
 description: Spiderman Homecoming is finally in theaters!
