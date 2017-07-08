@@ -26,32 +26,32 @@ This project was also special for another reason, and that is because it was my 
 
 Shoutout to all of the animators at Sony Imageworks who contributed to the project:
 
-[Richard Smith](http://www.imdb.com/name/nm2242449/)  
-[Julius Kwan](http://www.imdb.com/name/nm2698861/)  
-[Zac Overcash](http://www.imdb.com/name/nm4392532/)  
-[David Gimenez](http://www.imdb.com/name/nm4576119/)  
-[Eric Huang](http://www.imdb.com/name/nm3513325/)  
-[Ryan Sivley](https://vimeo.com/user11161531)  
-[Yasuhiko Takahashi](https://www.facebook.com/yasuhiko.takahashi.1000)  
-[Jocelyn Cofer](https://vimeo.com/jocelyncofer)  
-[Allen Osanlou](https://vimeo.com/user18943140)  
-[James Ward](http://www.imdb.com/name/nm4433149/)  
-[Trey Roane](http://www.imdb.com/name/nm1627148/)  
-[Yogesh Kaushal](http://www.imdb.com/name/nm2678995/)  
-[Anthony Rizzo](http://www.imdb.com/name/nm2038828/)  
-[Rob Fox](http://www.imdb.com/name/nm1757772/)  
-[Burke Roane](http://www.imdb.com/name/nm1718717/)  
-[Elena Miroglio](http://www.imdb.com/name/nm2867295/)  
-[Ryan O'Reilly](http://www.imdb.com/name/nm2093148/)  
-[Vincent Truitner](http://www.imdb.com/name/nm0874165/)  
-[Stein Loetvit](http://www.imdb.com/name/nm3140346/)  
-[Stephen Cooper](http://www.imdb.com/name/nm0178392/)  
-[Byung Choi](http://www.imdb.com/name/nm5426799/)  
-[Meena Ibrahim](http://www.imdb.com/name/nm5631187/)  
-[Scott Guppy](http://www.imdb.com/name/nm2096925/)  
-[Kenneth Steel](http://www.imdb.com/name/nm0824435/)  
-[Leo Nicolas](http://www.leonicanimation.com/)  
-[Joel Foster](http://www.imdb.com/name/nm3749980/)  
+**[Richard Smith](http://www.imdb.com/name/nm2242449/)**    
+**[Julius Kwan](http://www.imdb.com/name/nm2698861/)**  
+**[Zac Overcash](http://www.imdb.com/name/nm4392532/)**  
+**[David Gimenez](http://www.imdb.com/name/nm4576119/)**  
+**[Eric Huang](http://www.imdb.com/name/nm3513325/)**  
+**[Ryan Sivley](https://vimeo.com/user11161531)**  
+**[Yasuhiko Takahashi](https://www.facebook.com/yasuhiko.takahashi.1000)**  
+**[Jocelyn Cofer](https://vimeo.com/jocelyncofer)**  
+**[Allen Osanlou](https://vimeo.com/user18943140)**  
+**[James Ward](http://www.imdb.com/name/nm4433149/)**  
+**[Trey Roane](http://www.imdb.com/name/nm1627148/)**  
+**[Yogesh Kaushal](http://www.imdb.com/name/nm2678995/)**  
+**[Anthony Rizzo](http://www.imdb.com/name/nm2038828/)**  
+**[Rob Fox](http://www.imdb.com/name/nm1757772/)**  
+**[Burke Roane](http://www.imdb.com/name/nm1718717/)**  
+**[Elena Miroglio](http://www.imdb.com/name/nm2867295/)**  
+**[Ryan O'Reilly](http://www.imdb.com/name/nm2093148/)**  
+**[Vincent Truitner](http://www.imdb.com/name/nm0874165/)**  
+**[Stein Loetvit](http://www.imdb.com/name/nm3140346/)**  
+**[Stephen Cooper](http://www.imdb.com/name/nm0178392/)**  
+**[Byung Choi](http://www.imdb.com/name/nm5426799/)**  
+**[Meena Ibrahim](http://www.imdb.com/name/nm5631187/)**  
+**[Scott Guppy](http://www.imdb.com/name/nm2096925/)**  
+**[Kenneth Steel](http://www.imdb.com/name/nm0824435/)**  
+**[Leo Nicolas](http://www.leonicanimation.com/)**  
+**[Joel Foster](http://www.imdb.com/name/nm3749980/)**  
 
 Lastly, here are some of the badass posters that were released for the film. You'll noticed I said some...
 <div>
