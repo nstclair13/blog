@@ -2,8 +2,8 @@
 layout: default_posts
 title: Reference&#58; Facial Anatomy - Artnatomya
 image: http://www.artnatomia.net/imag/acc/ilus2.jpg
-meta: 
-description:
+meta: Check out this website and mobile app to learn all about facial anatomy - Artnatomya
+description: Check out this website and mobile app to learn all about facial anatomy - Artnatomya
 category: Reference
 custom_css:
 - lity
