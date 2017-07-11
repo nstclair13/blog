@@ -23,7 +23,7 @@ I highly reccomend you check out this site - they also have an app that works of
 <br />
 <br />
 
-<div><span class="image fit_half"><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Wing Reference GIF" />
+<center><div><span class="image "><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Wing Reference GIF" />
                                                 <figcaption>
                                                     
                                                     <center><h2 class="ih-fade-down ih-delay-sm">Artnatomya Facial Expression Learning Tool</h2></center>
@@ -35,7 +35,7 @@ I highly reccomend you check out this site - they also have an app that works of
                                                 </figcaption>
                                                 <a href="http://www.artnatomia.net/index.html"></a>
                                             </figure>
-                                            </span></div>
+                                            </span></div></center>
 
 
 
