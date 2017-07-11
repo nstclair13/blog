@@ -24,13 +24,13 @@ I highly recommend you check out [www.artnatomia.net](www.artnatomia.net) - they
 <br />
 
 <div>
-    <span class="image fit_half">
+    <span class="image">
         <img src="http://www.artnatomia.net/imag/tits/bannerING.png" alt="Artnatomya Logo"/>
     </span>
 </div>
 
 
-<div><span class="image "><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Wing Reference GIF" />
+<div><span class="image"><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Wing Reference GIF" />
                                                 <figcaption>
                                                     
                                                     <center><h2 class="ih-fade-down ih-delay-sm">ARTNATOMYA</h2></center>
