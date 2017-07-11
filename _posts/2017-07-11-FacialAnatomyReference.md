@@ -26,10 +26,10 @@ I highly reccomend you check out this site - they also have an app that works of
 <div><span class="image "><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Wing Reference GIF" />
                                                 <figcaption>
                                                     
-                                                    <center><h2 class="ih-fade-down ih-delay-sm">Artnatomya Facial Expression Learning Tool</h2></center>
+                                                    <center><h2 class="ih-fade-down ih-delay-sm">ARTNATOMYA</h2></center>
                                                     <ul>
                                                     <li class="ih-zoom-out ih-delay-sm">Human Facial Anatomy Reference Tool</li>
-                                                    <li class="ih-zoom-out ih-delay-md">Learn the muscles of the face</li>
+                                                    <li class="ih-zoom-out ih-delay-md">Excellent resource to learn the muscles of the face and how they work together.</li>
                                                     <li class="ih-zoom-out ih-delay-lg">Offline Mobile App coming soon!</li>                       
                                                     </ul>                                        
                                                 </figcaption>
