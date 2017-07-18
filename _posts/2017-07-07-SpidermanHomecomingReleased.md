@@ -43,7 +43,8 @@ Shoutout to all of the animators at Sony Imageworks who contributed to the proje
 **[Trey Roane](http://www.imdb.com/name/nm1627148/)**  
 **[Yogesh Kaushal](http://www.imdb.com/name/nm2678995/)**  
 **[Anthony Rizzo](http://www.imdb.com/name/nm2038828/)**  
-**[Rob Fox](http://www.imdb.com/name/nm1757772/)**  
+**[Rob Fox](http://www.imdb.com/name/nm1757772/)**
+**[Mario Richard]{http://www.imdb.com/name/nm3778554/}**
 **[Burke Roane](http://www.imdb.com/name/nm1718717/)**  
 **[Elena Miroglio](http://www.imdb.com/name/nm2867295/)**  
 **[Ryan O'Reilly](http://www.imdb.com/name/nm2093148/)**  
