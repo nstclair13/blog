@@ -30,7 +30,7 @@ I highly recommend you check out [www.artnatomia.net](www.artnatomia.net) - they
 </div>
 
 
-<div><span class="image"><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Face Anatomy Website" />
+<div><span class="image fit_half"><figure class="imghvr-strip-shutter-up"><img src="http://www.artnatomia.net/imag/acc/ilus2.jpg" alt="Face Anatomy Website" />
                                                 <figcaption>
                                                     
                                                     <center><h2 class="ih-fade-down ih-delay-sm">ARTNATOMYA</h2></center>
