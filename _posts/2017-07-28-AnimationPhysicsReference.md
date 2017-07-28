@@ -17,12 +17,13 @@ custom_js:
 - lity
 ---
 <h1 class="major">AnimationPhysics.org - Understanding Physics for Animators</h1>
-Physics! It's super important as an animator to understand even the most basic laws of physics. Im not suggesting you you need to be good at science or be a mathematician, but really understanding what is physically possible and what isn't can help determine performances and physical actions and separate ok animation with amazing animation. 
+Physics! It's super important as an animator to understand even the most basic laws of physics. I'm not suggesting you need to become a physicist, but really understanding what is physically possible and what isn't can help improve believability and separate "ok" animation with amazing animation. 
 
-I found this site years ago and it still appears to be online so I thought I would share it here. 
+I found this site years ago and it still appears to be online so I thought I would share it here. The site was created by Alejandro Garcia, a physicist and professor at San Jose State University. He consults for Dreamworks Animation and created this course to help artists really understand the laws of the physical world to help improve the craft of animation. 
 
 [AnimationPhysics.org](http://animationphysics.org/)  
 [AnimationPhysics.org YouTube Channel](https://www.youtube.com/user/AlejandroLuisGarcia/videos).   
+
 
 At the end of the day, these laws can be broken in animation but if you try to include them in your work, it'll be on that much more believable. 
 
