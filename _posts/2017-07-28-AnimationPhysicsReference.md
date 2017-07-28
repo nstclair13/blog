@@ -31,7 +31,7 @@ At the end of the day, these laws can be broken in animation but if you try to i
 <br />
 
 <div>
-    <span class="image fit">
+    <span class="image fit_half">
         <a href ="http://animationphysics.org/"><img src="http://animationphysics.org/wp-content/uploads/2012/12/Pelvic-List.jpg" alt="AnimationPhysics.org Logo"/></a>
     </span>
 </div>
