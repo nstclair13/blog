@@ -17,6 +17,13 @@ custom_js:
 - lity
 ---
 <h1 class="major">Learn to Use Arnold - Helpful YouTube Tutorials</h1>
+<div>
+    <span class="image fit">
+        <a href ="https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide"><img src="http://milafilm.com/wp-content/uploads/2014/02/solidangle.png" alt="SolidAngle Logo"/></a>
+    </span>
+</div>
+<br />
+<br />
 
 Autodesk finally got rid of Mental Ray (Sweet!) in Maya 2017 and replaced it with Arnold by default. Since Arnold works quite differently, I want to share some of the resources I've personally found that can help you get a jump start using it. These range from super introductory going over the basic shader attributes, all the way to more advanced concepts like hair shaders, layered shaders, rendering optimization, and AOV workflows.  
 
@@ -34,16 +41,6 @@ At the time of this posting, it seems Yone hasn't updated his channel in around 
 
 Have any other links worth checking out? Leave a comment below and I'll add them to this post!
 
-
-
-<br />
-<br />
-
-<div>
-    <span class="image fit_half">
-        <a href ="http://animationphysics.org/"><img src="http://milafilm.com/wp-content/uploads/2014/02/solidangle.png" alt="AnimationPhysics.org Logo"/></a>
-    </span>
-</div>
 
 
 
