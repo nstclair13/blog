@@ -1,9 +1,9 @@
 ---
 layout: default_posts
-title: Reference&#58; Arnold Renderer YouTube Tutorials
+title: Reference&#58; Learn to use Arnold - Helpful YouTube Tutorials
 image: http://milafilm.com/wp-content/uploads/2014/02/solidangle.png
-meta: Here are a couple of helpful resources for artists looking to learn Arnold Renderer!
-description: Here are a couple of helpful resources for artists looking to learn Arnold Renderer!
+meta: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
+description: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
 category: YouTube Resources
 custom_css:
 - lity
@@ -16,13 +16,18 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Reference&#58; Arnold Renderer YouTube Tutorials</h1>
+<h1 class="major">Learn to use Arnold - Helpful YouTube Tutorials</h1>
+
+Autodesk finally got rid of Mental Ray (Sweet!) in Maya 2017 and replaced it with Arnold by default. Since Arnold works quite differently, I want to share some of the resources I've personally found that can help you get a jump start using it. These range from super introductory going over the basic shader attributes, all the way to more advanced concepts like hair shaders, layered shaders, rendering optimization, and AOV workflows.  
+
+## **[Arnold 5 for Maya User Guide](https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide)**  
 
 
+## **[Yone Santana YouTube Channel](https://www.youtube.com/user/yonesensei/videos)**  
 
-**[Arnold 5 for Maya User Guide](https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide)**  
-**[Yone Santana YouTube Channel](https://www.youtube.com/user/yonesensei/videos)**   
-**[Arvid Schneider YouTube Channel](https://www.youtube.com/user/URsProductions/videos)**   
+
+## **[Arvid Schneider YouTube Channel](https://www.youtube.com/user/URsProductions/videos)**   
+Arvid is a super talented artist and also an excellent tutorial presenter. His videos cover a huge range of topics and are very easy to follow along with. 
 
 
 
