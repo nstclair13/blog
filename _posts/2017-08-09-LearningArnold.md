@@ -22,9 +22,6 @@ custom_js:
         <a href ="https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide"><img src="http://milafilm.com/wp-content/uploads/2014/02/solidangle.png" alt="SolidAngle Logo"/></a>
     </span>
 </div>
-<br />
-<br />
-
 Autodesk finally got rid of Mental Ray (Sweet!) in Maya 2017 and replaced it with Arnold by default. Since Arnold works quite differently, I want to share some of the resources I've personally found that can help you get a jump start using it. These range from super introductory going over the basic shader attributes, all the way to more advanced concepts like hair shaders, layered shaders, rendering optimization, and AOV workflows.  
 
 ## **[Arnold 5 for Maya User Guide](https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide)**  
