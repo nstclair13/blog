@@ -4,7 +4,7 @@ title: Reference&#58; AnimationPhysics.org
 image: http://animationphysics.org/wp-content/uploads/2012/12/Pelvic-List.jpg
 meta: An oldie but goodie! A YouTube channel worth taking a look at to really understand Physics, geared towards Animators!
 description: An oldie but goodie! A YouTube channel worth taking a look at to really understand Physics, geared towards Animators!
-category: Reference
+category: [Reference, YouTube Resources]
 custom_css:
 - lity
 custom_js:
