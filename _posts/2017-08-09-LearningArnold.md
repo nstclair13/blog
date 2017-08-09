@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: Learn to use Arnold - Helpful YouTube Tutorials
+title: Learn to Use Arnold - Helpful YouTube Tutorials
 image: http://milafilm.com/wp-content/uploads/2014/02/solidangle.png
 meta: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
 description: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
@@ -16,7 +16,7 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Learn to use Arnold - Helpful YouTube Tutorials</h1>
+<h1 class="major">Learn to Use Arnold - Helpful YouTube Tutorials</h1>
 
 Autodesk finally got rid of Mental Ray (Sweet!) in Maya 2017 and replaced it with Arnold by default. Since Arnold works quite differently, I want to share some of the resources I've personally found that can help you get a jump start using it. These range from super introductory going over the basic shader attributes, all the way to more advanced concepts like hair shaders, layered shaders, rendering optimization, and AOV workflows.  
 
@@ -30,7 +30,7 @@ Arvid is a super talented artist and also an excellent tutorial presenter. His v
 
 Yone is a really great animator and artist, and like Arvid, a great tutorial presenter as well. I found his tutorials to be the most helpful to get started from zero when approaching Arnold for the first time.  
 
-At the time of this posting, it seems Yone hasn't updated his channel in around 9 months or so. That said, he has a couple of really great introduction videos to help the unfamiliar get started lighting and rendering their scenes in Arnold and Maya 2017. Check them out **[here](https://www.youtube.com/watch?v=K3QNbkyEe4I&t=728s)**, **[here](https://www.youtube.com/watch?v=mTGHba6yIr4&t=102s)**, and **[here](https://www.youtube.com/watch?v=_N-vT0jEYLo&t=2s)**. I would still check out his channel for his other tutorials as well.
+At the time of this posting, it seems Yone hasn't updated his channel in around 9 months or so. That said, he has a couple of really great introduction videos to help the unfamiliar get started lighting and rendering their scenes in Arnold and Maya 2017. Check them out **[here](https://www.youtube.com/watch?v=mTGHba6yIr4&t)**, **[here](https://www.youtube.com/watch?v=K3QNbkyEe4I&t)**, and **[here](https://www.youtube.com/watch?v=_N-vT0jEYLo&t=2s)**. I would still check out his channel for his other tutorials as well.
 
 Have any other links worth checking out? Leave a comment below and I'll add them to this post!
 
