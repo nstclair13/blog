@@ -1,10 +1,10 @@
 ---
 layout: default_posts
-title: Learn to Use Arnold - Helpful YouTube Tutorials
+title: Reference&#58; Learn to Use Arnold - Helpful YouTube Tutorials
 image: http://milafilm.com/wp-content/uploads/2014/02/solidangle.png
 meta: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
 description: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
-category: YouTube Resources
+category: Reference
 custom_css:
 - lity
 custom_js:
@@ -16,7 +16,7 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Learn to Use Arnold - Helpful YouTube Tutorials</h1>
+<h1 class="major">Reference&#58; Learn to Use Arnold - Helpful YouTube Tutorials</h1>
 <div>
     <span class="image fit">
         <a href ="https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide"><img src="http://milafilm.com/wp-content/uploads/2014/02/solidangle.png" alt="SolidAngle Logo"/></a>
