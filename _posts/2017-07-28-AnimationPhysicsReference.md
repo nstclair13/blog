@@ -32,7 +32,7 @@ It's also worth mention that at the end of the day, these laws can and likely wi
 <br />
 
 <div>
-    <span class="image fit_half">
+    <span class="image fit_half_left">
         <a href ="http://animationphysics.org/"><img src="http://animationphysics.org/wp-content/uploads/2012/12/Pelvic-List.jpg" alt="AnimationPhysics.org Logo"/></a>
     </span>
 </div>
