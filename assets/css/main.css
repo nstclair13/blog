@@ -2646,19 +2646,7 @@
                 
 			}
 
- 	.image.fit_half_left {
-			display: block;
-			margin: 0 0 2em 0;
-			width: 100%;
-            
-            }
-
-			.image.fit_half_left img {
-				width: 50%;
-                		margin-left: auto;
-                		
-                
-			}
+ 	
 
 		.image.main {
 			display: block;
