@@ -2,8 +2,8 @@
 layout: default_posts
 title: Reference&#58; Is Your Demo Reel Ready for a Major Studio with Shawn Kelly
 image: 
-meta: 
-description: 
+meta: Compliments of AnimationMentor, Lead Animator Shawn Kelly discusses what makes up a studio ready demo reel. This video is highly worth your time! 
+description: Compliments of AnimationMentor, Lead Animator Shawn Kelly discusses what makes up a studio ready demo reel. This video is highly worth your time! 
 category: Reference
 custom_css:
 - lity
@@ -23,7 +23,7 @@ This webinar was just posted by AnimationMentor and I wanted to share it here be
 It's a good hour+ long webcast but worth every minute you can watch. Check it out below!
 
 <div>
-    <span class="image fit">
+    <span class="image fit_half">
         <a href ="https://vimeo.com/228852725"><img src="http://blog.animationmentor.com/wp-content/uploads/2017/08/blog-shawn-kelly-webinar-creatures-demo-reel.jpg" alt="Webinar Cover Logo"/></a>
     </span>
 </div>
