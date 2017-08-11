@@ -16,7 +16,7 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Work Update - Meg</h1>
+<h1 class="major">Work Update&#58; Meg</h1>
 
 Well, today was my last day on Spiderman: Homecoming. It also marks the end of my first lead animator role too. The project was relatively short - roughly 5 months for me - it was jam packed to the brim with all sorts of new challenges. I'm super proud of the work done by my team and fellow animators and I hope you all go see it in theaters! 
 
