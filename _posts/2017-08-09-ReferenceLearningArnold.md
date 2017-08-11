@@ -18,7 +18,7 @@ custom_js:
 ---
 <h1 class="major">Reference&#58; Learn to Use Arnold - Helpful YouTube Tutorials</h1>
 <div>
-    <span class="image fit_half_left">
+    <span class="image fit">
         <a href ="https://support.solidangle.com/display/a5AFMUG/Arnold+for+Maya+User+Guide"><img src="http://milafilm.com/wp-content/uploads/2014/02/solidangle.png" alt="SolidAngle Logo"/></a>
     </span>
 </div>
