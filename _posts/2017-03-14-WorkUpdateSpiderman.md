@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: Work Update - Spider-Man&#58; Homecoming
+title: Work Update&#58; Spider-Man&#58; Homecoming
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BNDUzOTE5OTk1NF5BMl5BanBnXkFtZTgwNzgwNzA4MDI@._V1_.jpg
 meta: Read about the latest project I am working on! Spider-Man&#58; Homecoming!
 description: Read about the latest project I am working on! Spider-Man&#58; Homecoming!
@@ -16,7 +16,7 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Work Update - Spider-Man: Homecoming</h1>
+<h1 class="major">Work Update&#58; Spider-Man: Homecoming</h1>
 
 So it has been a little while since my last work update post. I finally wrapped up my work on Kingsman: The Golden Circle and quickly moved onto my next project, Spider-Man: Homecoming! 
 
