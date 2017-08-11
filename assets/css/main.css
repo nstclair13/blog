@@ -2641,8 +2641,22 @@
 
 			.image.fit_half img {
 				width: 50%;
-                margin-left: auto;
-                margin-right: auto;
+                		margin-left: auto;
+                		margin-right: auto;
+                
+			}
+
+ 	.image.fit_half_left {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+            
+            }
+
+			.image.fit_half_left img {
+				width: 50%;
+                		margin-left: auto;
+                		
                 
 			}
 
