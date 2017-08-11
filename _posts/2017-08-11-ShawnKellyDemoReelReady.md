@@ -22,8 +22,8 @@ This webinar was just posted by AnimationMentor and I wanted to share it here be
 
 It's a good hour+ long webcast but worth every minute you can watch. Check it out below!
 
-<iframe src="https://player.vimeo.com/video/228852725" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/228852725">Is your demo reel ready for a major studio?</a> from <a href="https://vimeo.com/animationmentor">Animation Mentor</a> on <a href="https://vimeo.com">Vimeo</a>
+<iframe src="https://player.vimeo.com/video/228852725" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/228852725">Is your demo reel ready for a major studio?</a> from <a href="https://vimeo.com/animationmentor">Animation Mentor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 It was posted on the **[AnimationMentor Blog](http://blog.animationmentor.com/is-your-demo-reel-ready-for-a-major-studio/)** which is also an amazing resource you need to check out!
 
