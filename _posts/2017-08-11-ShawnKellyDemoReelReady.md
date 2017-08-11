@@ -23,7 +23,7 @@ This webinar was just posted by AnimationMentor and I wanted to share it here be
 It's a good hour plus long webinar but worth every minute. Check it out below!
 
 <div>
-    <span class="image fit_half_left">
+    <span class="image fit_half">
         <a href ="https://vimeo.com/228852725"><img src="http://blog.animationmentor.com/wp-content/uploads/2017/08/blog-shawn-kelly-webinar-creatures-demo-reel.jpg" alt="Webinar Cover Logo"/></a>
     </span>
 </div>
