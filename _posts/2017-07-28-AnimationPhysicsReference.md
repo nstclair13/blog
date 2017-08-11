@@ -25,11 +25,7 @@ I found this site years ago and it still appears to be online so I thought I wou
 **[AnimationPhysics.org YouTube Channel](https://www.youtube.com/user/AlejandroLuisGarcia/videos)**   
 
 
-It's also worth mention that at the end of the day, these laws can and likely will be broken in animation. You really should know the rules before you break them though and these videos can help with that. 
-
-
-<br />
-<br />
+It's also worth mention that at the end of the day, these laws can and likely will be broken in animation. You really should know the rules before you break them though and these videos can help with that.  
 
 <div>
     <span class="image fit_half_left">
