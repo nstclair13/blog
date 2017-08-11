@@ -22,8 +22,11 @@ This webinar was just posted by AnimationMentor and I wanted to share it here be
 
 It's a good hour+ long webcast but worth every minute you can watch. Check it out below!
 
-<iframe src="https://player.vimeo.com/video/228852725" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/228852725">Is your demo reel ready for a major studio?</a> from <a href="https://vimeo.com/animationmentor">Animation Mentor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div>
+    <span class="image fit">
+        <a href ="https://vimeo.com/228852725"><img src="http://blog.animationmentor.com/wp-content/uploads/2017/08/blog-shawn-kelly-webinar-creatures-demo-reel.jpg" alt="Webinar Cover Logo"/></a>
+    </span>
+</div>
 
 It was posted on the **[AnimationMentor Blog](http://blog.animationmentor.com/is-your-demo-reel-ready-for-a-major-studio/)** which is also an amazing resource you need to check out!
 
