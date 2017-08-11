@@ -20,7 +20,7 @@ custom_js:
 
 This webinar was just posted by AnimationMentor and I wanted to share it here because I really think Shawn covered a lot of major topics worth thinking about when creating a demo reel. I've seen my fair share of reels, as well as made my own (duh), and he hit the nail on the head for almost everything discussed. 
 
-It's a good hour+ long webcast but worth every minute you can watch. Check it out below!
+It's a good hour plus long webinar but worth every minute. Check it out below!
 
 <div>
     <span class="image fit_half">
