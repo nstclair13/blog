@@ -2,8 +2,8 @@
 layout: default_posts
 title: Work Update&#58; Lucky 13
 image: 
-meta: 
-description: 
+meta: Meg is finished (for me) and I moved onto a new one. Come check out what's next!
+description: Meg is finished (for me) and I moved onto a new one. Come check out what's next!
 category: Work Updates
 custom_css:
 - lity
