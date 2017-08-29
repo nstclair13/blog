@@ -27,7 +27,7 @@ So with that, stayed tuned...updates will be coming soon!
 
 <div>
     <span class="image fit_half">
-        <img src="" alt="Lucky 13 Temp Image"/>
+        <img src="" alt=""/>
     </span>
 </div>
 
