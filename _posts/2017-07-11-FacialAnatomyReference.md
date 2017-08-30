@@ -4,7 +4,7 @@ title: Reference&#58; Facial Anatomy - Artnatomya
 image: http://www.artnatomia.net/imag/acc/ilus2.jpg
 meta: Check out this website and mobile app to learn all about facial anatomy - Artnatomya
 description: Check out this website and mobile app to learn all about facial anatomy - Artnatomya
-category: Reference
+category: Reference, Scripts, & Tutorials
 custom_css:
 - lity
 custom_js:
