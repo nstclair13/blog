@@ -4,7 +4,7 @@ title: Reference&#58; Learn to Use Arnold - Helpful YouTube Tutorials
 image: http://milafilm.com/wp-content/uploads/2014/02/solidangle.png
 meta: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
 description: Here are a handful of helpful resources for artists looking to learn Arnold! There is a wide variety of topics ranging from beginner to expert/advanced.
-category: Reference
+category: Reference, Scripts, & Tutorials
 custom_css:
 - lity
 custom_js:
