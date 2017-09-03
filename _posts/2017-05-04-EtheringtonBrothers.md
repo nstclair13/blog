@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: Reference&#58; The Etherington Brothers Tutorials
+title: Tutorials&#58; The Etherington Brothers Blog
 image: https://2.bp.blogspot.com/-Rm5NcRKNwGY/WGw-nl7LCHI/AAAAAAAAIPc/7xcyC0ljfP4Ha11TnRSEAoaAXqx3qcBCACLcB/s1600/HOW%2Bto%2Bdraw%2Bfabric%2Bfolds%2Bclothing%2B3%2Btutorial%2Blorenzo%2Betherington.jpg
 meta: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
 description: Love comics? Beautiful drawings? Come read about The Etherington Brothers!
@@ -16,7 +16,7 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Reference: The Etherington Brothers Tutorials</h1>
+<h1 class="major">Tutorials: The Etherington Brothers Blog</h1>
 
 As an animator, I am constantly looking for ways to improve my skillset and understanding of the craft as well as searching for inspiration to keep me going. This is, afterall, a profession that requires an absurd amount of dedication and creative mojo. Right?
 
