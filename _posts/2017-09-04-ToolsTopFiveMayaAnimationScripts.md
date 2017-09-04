@@ -1,6 +1,6 @@
 ---
 layout: default_posts
-title: Scripts; My Top 5 Maya Scripts and Toolsets for Animators!
+title: Scripts&#58; My Top 5 Maya Scripts & Toolsets for Animators!
 image: https://www.nick-st-clair.com/blog/images/script_editor2.png
 meta: There are a lot of great custom Maya scripts and plugins out there. There are equally just as many bad ones. I share with you my top 5 custom Maya Scripts and Plugins!
 description: There are a lot of great custom Maya scripts and plugins out there. There are equally just as many bad ones. I share with you my top 5 custom Maya Scripts and Plugins!
