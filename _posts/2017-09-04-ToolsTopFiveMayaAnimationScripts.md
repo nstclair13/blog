@@ -55,7 +55,7 @@ The script can be found **[here](http://www.animationateam.com/store)** and work
 ## **4) BroDynamics**  
 Secondary overlap - it adds a ton to your shot but can be very tedious sometimes depending on what it being animated. This tool helps with that! With a few button clicks, you can add dynamic overlap baked right onto your controllers for almost any type of action! At Sony, we have a tool called "JFlex" which really helps get secondary motion quickly, and this is the closest thing I could find online that works in a similar fashion. You never really realize how much you use a tool until you don't have access to it. Right? In fact, BroDynamics actually goes a step further and allows for different types of dynamics to be simulated. Springs, Tails, even Rigid Body ragdolls.   
 
-The tool can be found here and works in Maya version 2015 and beyond. It costs $30 USD and the creator, [Michael Davydov](https://gumroad.com/l/BroDynamics), is very active with it's support and troubleshooting.  
+The tool can be found [here](https://gumroad.com/l/BroDynamics) and works in Maya version 2015 and beyond. It costs $30 USD and the creator, Michael Davydov, is very active with it's support and troubleshooting.  
 
 
 ## **5) Keyframe Pro**  
