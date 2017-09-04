@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Scripts & Tools&#58; Top 5 Maya Scripts &#58; Toolsets for Animators!
-image: https://www.nick-st-clair.com/blog/images/script_editor.png
+image: https://www.nick-st-clair.com/blog/images/script_editor2.png
 meta: There are a lot of great custom Maya scripts and plugins out there. There are equally just as many bad ones. I share with you my top 5 custom Maya Scripts and Plugins!
 description: There are a lot of great custom Maya scripts and plugins out there. There are equally just as many bad ones. I share with you my top 5 custom Maya Scripts and Plugins!
 category: Reference, Scripts, & Tutorials
@@ -19,7 +19,7 @@ custom_js:
 <h1 class="major">Scripts & Tools&#58; Top 5 Maya Scripts & Tools for Animators!</h1>
 <div>
     <span class="image fit">
-        <img src="{{site.url}}/images/script_editor.png" alt="Script Editor Image"/>
+        <img src="{{site.url}}/images/script_editor2.png" alt="Script Editor Image"/>
     </span>
 </div>
 Custom scripts & plugins. They make our animating lives so much easier. Whether it's just offsetting keys quickly or creating custom dynamics at the click of a button, chances are you've used some sort of awesome tool to help you get by. I was thinking about what custom scripts I have in my toolbox that I couldn't live without and thought I would share my personal favorites; maybe these will be helpful to you too! I should mention, some of these are free and others are not. While I know it's sometimes painful to purchase tools and scripts, these are really robust and well crafted and their creators definitely deserve some recognition and compensation for creating such helpful utilities. 
