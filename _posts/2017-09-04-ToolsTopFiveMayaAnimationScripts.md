@@ -68,12 +68,10 @@ You can purchase it **[here](http://zurbrigg.com/keyframe-pro)** for $79 USD. Th
 
 Every year Autodesk releases a new version of Maya with new tools, user interfaces, and plug ins and each year something breaks or gets "fixed." Ok so maybe it's not that bad but often the updates between versions are hit and miss; there's usually some fantastic tools that really speed up your workflow annnnd then some that alter it arbitrarily or sometimes even hinder it. It can be hard to keep up in all honesty.  
 
-One thing some of you might not realize is that there is also another toolset that gets updated every year - **[the Maya Bonus Tools kit](https://apps.autodesk.com/en/Detail/Index?id=8115150172702393827&appLang=en&os=Win64)**.  
-
- Again, sometimes it's hit or miss but perhaps there's something for you this year? Best of all is the toolkit is **FREE!**  
+One thing some of you might not realize is that there is also another toolset that gets updated every year - **[the Maya Bonus Tools kit](https://apps.autodesk.com/en/Detail/Index?id=8115150172702393827&appLang=en&os=Win64)**. Again, sometimes it's hit or miss but perhaps there's something for you this year? Best of all is the toolkit is **FREE!**  
 
 The two bonus features I found this year that were most useful for myself are the **Make Joints Dynamic** and **Auto Unwrap UV's Tool**  
-The Make Joints Dynamic tool is a free alternative to the BroDynamics listed above. It does the same thing more or less but is a bit less intuitive and requires a few more additional steps to make it animator friendly. 
+The Make Joints Dynamic tool is a free alternative to the BroDynamics listed above. It does the same thing more or less but is a bit less intuitive and requires a few more additional steps to make it animator friendly.  
 
 I won't go into all of the details of everything else that is included, that's Autodesk's job and frankly, ther are others whom are better at it. I do suggest you check out some of tool demonstrations on YouTube channels like this **[one](https://www.youtube.com/watch?v=MQXTtxhOk7I)** though!  
 
@@ -86,11 +84,6 @@ While I personally don't utilize too many of his tools, I can't help but list th
 
 <br />
 Have any other scripts or tools you can't live without that I didn't mention? Leave a comment below and I'll check them out!
-
-<br />
-
-P.S. - Happy Labor Day!
-
 
 
 
