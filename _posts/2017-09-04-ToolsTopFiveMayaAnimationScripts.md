@@ -35,6 +35,7 @@ At the time of this post there is a v2.0 of aTools currently being worked on.
 
 You can download aTools **[here](http://camiloalan.wixsite.com/atoolswebsite)**  
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/c8OiM3StkUU" frameborder="0" allowfullscreen></iframe>
 
 ## **2) MGTools**  
 This set, like aTools, has too many utilities included to name them all in a single post. While not free, it's a cheap purchase and comes with a lifetime upgrade so you never need to worry about your license expiring or needing to pay another price to get a new version. It costs about $40 USD presently. It was developed a few years before aTools became so popular by a guy named Miguel Winfield. My favorite tool is the MGAnimRecorder.  
