@@ -1,9 +1,9 @@
 ---
 layout: default_posts
-title: Scripts&#58; My Top 5 Maya Scripts & Toolsets for Animators!
-image: https://www.nick-st-clair.com/blog/images/script_editor2.png
-meta: There are a lot of great custom Maya scripts and plugins out there. There are equally just as many bad ones. I share with you my top 5 custom Maya Scripts and Plugins!
-description: There are a lot of great custom Maya scripts and plugins out there. There are equally just as many bad ones. I share with you my top 5 custom Maya Scripts and Plugins!
+title: Create an Animation Portfolio Website on the Cheap!
+image: 
+meta: 
+description: 
 category: Reference, Scripts, & Tutorials
 custom_css:
 - lity
@@ -16,10 +16,10 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Scripts&#58; My Top 5 Maya Scripts & Tools for Animators!</h1>
+<h1 class="major">Create an Animation Portfolio Website on the Cheap!</h1>
 <div>
     <span class="image fit">
-        <img src="{{site.url}}/images/script_editor2.png" alt="Script Editor Image"/>
+        <img src="{{site.url}}/images/.png" alt=""/>
     </span>
 </div>
 Now, before you read on let me start with one caveat - I'm not a coder or web developer by any stretch of the word. Some of the things I mention below might be extremely rudimentary to you or maybe there are better solutions, but if you are learning to build your own site then some of these just might help you along the way.  
@@ -34,8 +34,8 @@ So, this website costs me literally $12 a year to maintain. $1 a month. That's i
 So how do I have this site for only 12 bucks a year? You only need three things:  
 
 -a web domain purchased through **[Google Domains](https://domains.google/#/)**  
--a **[GitHub account](https://github.com/) (free!)  
--a **[website design template](https://html5up.net/)** (free or paid depending on what you are looking for)  
+-a **[GitHub account](https://github.com/)** (free!)  
+-a **[website design template](https://html5up.net/)** (free!)  
 
 That's it.  
 
