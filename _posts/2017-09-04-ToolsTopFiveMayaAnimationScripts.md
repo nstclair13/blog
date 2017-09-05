@@ -25,7 +25,7 @@ custom_js:
 Custom scripts & plugins. They make our animating lives so much easier. Whether it's just offsetting keys quickly or creating custom dynamics at the click of a button, chances are you've used some sort of awesome tool to help you get by. I was thinking about what custom scripts I have in my toolbox that I couldn't live without and thought I would share my personal favorites; maybe these will be helpful to you too! I should mention, some of these are free and others are not. While I know it's sometimes painful to purchase tools and scripts, these are really robust and well crafted and their creators definitely deserve some recognition and compensation for creating such helpful utilities. 
 
 So on with it then! In no specific order, these scripts and toolsets are my top 5 favorites that get just about any job done. 
-
+<br />
 ## **1) aTools**  
 This toolset is chock full of all types of tools for animators. It's been described as "The ultimate free utility belt for Maya animators." It was created by an amazingly talented animator named **[Alan Camilo](https://vimeo.com/user142120)** and is completely FREE.   
 
@@ -36,7 +36,7 @@ At the time of this post there is a v2.0 of aTools currently being worked on.
 You can download aTools **[here](http://camiloalan.wixsite.com/atoolswebsite)**  
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/c8OiM3StkUU" frameborder="0" allowfullscreen></iframe>  
-
+<br />
 
 ## **2) MGTools**  
 This set, like aTools, has too many utilities included to name them all in a single post. While not free, it's a cheap purchase and comes with a lifetime upgrade so you never need to worry about your license expiring or needing to pay another price to get a new version. It costs about $40 USD presently. It was developed a few years before aTools became so popular by a guy named Miguel Winfield. My favorite tool is the MGAnimRecorder.  
@@ -46,7 +46,7 @@ This set, like aTools, has too many utilities included to name them all in a sin
 MGTools 3 can currently be purchased **[here](http://mgland.com/MGtools_en.html?url=Buy)**.    
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/AzultIay4Ag" frameborder="0" allowfullscreen></iframe>  
-
+<br />
 
 ## **3) QPAS Path System**  
 Have a walk cycle that you want to put into world space? Well this tool will allow you to put your cycle on a path, retime it if necessary, then bake it down into world space. This tool from AnimationATeam.com makes it pain free to do and saves a ton of time for complex quadraped action scenes.   
@@ -54,7 +54,7 @@ Have a walk cycle that you want to put into world space? Well this tool will all
 The script can be found **[here](http://www.animationateam.com/store)** and works in any version of Maya. It costs around $65 USD. It also comes with a nice video tutorial about using the tool.  
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/-TfieCA2Zk0" frameborder="0" allowfullscreen></iframe>  
-
+<br />
 
 
 ## **4) BroDynamics**  
@@ -63,7 +63,7 @@ Secondary overlap - it adds a ton to your shot but can be very tedious sometimes
 The tool can be found **[here](https://gumroad.com/l/BroDynamics)** and works in Maya version 2015 and beyond. It costs $30 USD and the creator, Michael Davydov, is very active with it's support and troubleshooting.  
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/w0-o4lFBvd8" frameborder="0" allowfullscreen></iframe>  
-
+<br />
 
 ## **5) Keyframe Pro**  
 A good video player is key to review your work and Keyframe Pro by Chris Zurbrigg has become my go-to solution. It's a very robust and all encompassing video player that is also integrated directly into Maya - you can sync up your timeline with the player without ever having to leave Maya! 
@@ -72,7 +72,7 @@ You can purchase it **[here](http://zurbrigg.com/keyframe-pro)** for $79 USD. Th
 
 <iframe src="https://player.vimeo.com/video/185378694" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
-
+<br />
 
 ## **Bonus - Worthwhile Mentions!**   
 
