@@ -35,7 +35,8 @@ At the time of this post there is a v2.0 of aTools currently being worked on.
 
 You can download aTools **[here](http://camiloalan.wixsite.com/atoolswebsite)**  
 
-<iframe width="960" height="540" src="https://www.youtube.com/embed/c8OiM3StkUU" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/c8OiM3StkUU" frameborder="0" allowfullscreen></iframe>  
+
 
 ## **2) MGTools**  
 This set, like aTools, has too many utilities included to name them all in a single post. While not free, it's a cheap purchase and comes with a lifetime upgrade so you never need to worry about your license expiring or needing to pay another price to get a new version. It costs about $40 USD presently. It was developed a few years before aTools became so popular by a guy named Miguel Winfield. My favorite tool is the MGAnimRecorder.  
@@ -44,12 +45,15 @@ This set, like aTools, has too many utilities included to name them all in a sin
 
 MGTools 3 can currently be purchased **[here](http://mgland.com/MGtools_en.html?url=Buy)**.    
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/AzultIay4Ag" frameborder="0" allowfullscreen></iframe>  
+
 
 ## **3) QPAS Path System**  
 Have a walk cycle that you want to put into world space? Well this tool will allow you to put your cycle on a path, retime it if necessary, then bake it down into world space. This tool from AnimationATeam.com makes it pain free to do and saves a ton of time for complex quadraped action scenes.   
 
 The script can be found **[here](http://www.animationateam.com/store)** and works in any version of Maya. It costs around $65 USD. It also comes with a nice video tutorial about using the tool.  
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/-TfieCA2Zk0" frameborder="0" allowfullscreen></iframe>  
 
 
 
@@ -58,11 +62,16 @@ Secondary overlap - it adds a ton to your shot but can be very tedious sometimes
 
 The tool can be found **[here](https://gumroad.com/l/BroDynamics)** and works in Maya version 2015 and beyond. It costs $30 USD and the creator, Michael Davydov, is very active with it's support and troubleshooting.  
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/w0-o4lFBvd8" frameborder="0" allowfullscreen></iframe>  
+
 
 ## **5) Keyframe Pro**  
 A good video player is key to review your work and Keyframe Pro by Chris Zurbrigg has become my go-to solution. It's a very robust and all encompassing video player that is also integrated directly into Maya - you can sync up your timeline with the player without ever having to leave Maya! 
 
 You can purchase it **[here](http://zurbrigg.com/keyframe-pro)** for $79 USD. There is also a slimmer version available for $35 called Keyframe MP. It has similar functionality although much less robust in terms of professional workflow. Just want a player to frame by frame stuff and scrub audio? Then this is worth your attention. Both versions also have a trial version allowing you to take a gander at the program.
+
+<iframe src="https://player.vimeo.com/video/185378694" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
 
 
 ## **Bonus - Worthwhile Mentions!**   
@@ -76,11 +85,15 @@ The Make Joints Dynamic tool is a free alternative to the BroDynamics listed abo
 
 I won't go into all of the details of everything else that is included, that's Autodesk's job and frankly, ther are others whom are better at it. I do suggest you check out some of tool demonstrations on YouTube channels like this **[one](https://www.youtube.com/watch?v=MQXTtxhOk7I)** though!  
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/MQXTtxhOk7I" frameborder="0" allowfullscreen></iframe>  
+
 <br />
 
 **bhGhost** - Brian Horgan's custom take on onion skinning that works within Maya's viewport.   
 
 While I personally don't utilize too many of his tools, I can't help but list them here for there ingenuity and power. Brian is a fantastic scripter/td and animator and makes some of the best custom scripts out there for animation. He keeps a **[blog](http://graphite9.com/blog/)** and updates his repertoire of tools often. Definitely check his site out!  
+
+<iframe src="https://player.vimeo.com/video/218632770" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
 
 <br />
