@@ -95,6 +95,9 @@ While I personally don't utilize too many of his tools, I can't help but list th
 
 <iframe src="https://player.vimeo.com/video/218632770" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
+**ebLabs** - These tools were brought to my attention shortly after posting this entry. I haven't checked them out myself just yet but they looks like pretty powerful tools that if you don't want to spend as much money on some of the above toolsets, they are great a la carte options. Specifically the World Space Tools and Retime Tools look to be the most useful and animator friendly to boot!
+
+**[ebLabs tools are available here](http://eblabs.com/product-category/the-lab-products/)**
 
 <br />
 Have any other scripts or tools you can't live without that I didn't mention? Leave a comment below and I'll check them out!
