@@ -76,6 +76,7 @@ You can purchase it **[here](http://zurbrigg.com/keyframe-pro)** for $79 USD. Th
 
 ## **Bonus - Worthwhile Mentions!**   
 
+## **Maya Bonus Tools**  
 Every year Autodesk releases a new version of Maya with new tools, user interfaces, and plug ins and each year something breaks or gets "fixed." Ok so maybe it's not that bad but often the updates between versions are hit and miss; there's usually some fantastic tools that really speed up your workflow annnnd then some that alter it arbitrarily or sometimes even hinder it. It can be hard to keep up in all honesty.  
 
 One thing some of you might not realize is that there is also another toolset that gets updated every year - **[the Maya Bonus Tools kit](https://apps.autodesk.com/en/Detail/Index?id=8115150172702393827&appLang=en&os=Win64)**. Again, sometimes it's hit or miss but perhaps there's something for you this year? Best of all is the toolkit is **FREE!**  
@@ -89,13 +90,18 @@ I won't go into all of the details of everything else that is included, that's A
 
 <br />
 
-**bhGhost** - Brian Horgan's custom take on onion skinning that works within Maya's viewport.   
+## **bhGhost**  
+Brian Horgan's custom take on onion skinning that works within Maya's viewport.   
 
 While I personally don't utilize too many of his tools, I can't help but list them here for there ingenuity and power. Brian is a fantastic scripter/td and animator and makes some of the best custom scripts out there for animation. He keeps a **[blog](http://graphite9.com/blog/)** and updates his repertoire of tools often. Definitely check his site out!  
 
 <iframe src="https://player.vimeo.com/video/218632770" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
-**ebLabs** - These tools were brought to my attention shortly after posting this entry. I haven't checked them out myself just yet but they looks like pretty powerful tools that if you don't want to spend as much money on some of the above toolsets, they are great a la carte options. Specifically the World Space Tools and Retime Tools look to be the most useful and animator friendly to boot!
+<br />
+
+## **ebLabs**  
+These tools were brought to my attention shortly after posting this entry. I haven't checked them out myself just yet but they looks like pretty powerful tools that if you don't want to spend as much money on some of the above toolsets, they are great a la carte options. Specifically the World Space Tools and Retime Tools look to be the most useful and animator friendly to boot!  
+
 
 **[ebLabs tools are available here](http://eblabs.com/product-category/the-lab-products/)**
 
