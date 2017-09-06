@@ -76,7 +76,6 @@ You can purchase it **[here](http://zurbrigg.com/keyframe-pro)** for $79 USD. Th
 
 ## **Bonus - Worthwhile Mentions!**   
 
-## **Maya Bonus Tools**  
 Every year Autodesk releases a new version of Maya with new tools, user interfaces, and plug ins and each year something breaks or gets "fixed." Ok so maybe it's not that bad but often the updates between versions are hit and miss; there's usually some fantastic tools that really speed up your workflow annnnd then some that alter it arbitrarily or sometimes even hinder it. It can be hard to keep up in all honesty.  
 
 One thing some of you might not realize is that there is also another toolset that gets updated every year - **[the Maya Bonus Tools kit](https://apps.autodesk.com/en/Detail/Index?id=8115150172702393827&appLang=en&os=Win64)**. Again, sometimes it's hit or miss but perhaps there's something for you this year? Best of all is the toolkit is **FREE!**  
