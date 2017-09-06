@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Animation Shout Out! - Rudy Animation Test by Kike Florido
-image: 
+image: https://i.vimeocdn.com/portrait/19587510_300x300.webp
 meta: An exceptional piece of animation that deserves a shout out!
 description: An exceptional piece of animation that deserves a shout out!
 category: Shout Outs!
