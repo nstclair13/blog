@@ -39,7 +39,7 @@ You can download aTools **[here](http://camiloalan.wixsite.com/atoolswebsite)**
 <br />
 
 ## **2) MGTools**  
-This set, like aTools, has too many utilities included to name them all in a single post. While not free, it's a cheap purchase and comes with a lifetime upgrade so you never need to worry about your license expiring or needing to pay another price to get a new version. It costs about $40 USD presently. It was developed a few years before aTools became so popular by a guy named Miguel Winfield. My favorite tool is the MGAnimRecorder.  
+This set, like aTools, has too many utilities included to name them all in a single post. While not free, it's a fairly cheap purchase  about $70 USD presently. It was developed a few years before aTools became so popular by a guy named Miguel Winfield. My favorite tool is the MGAnimRecorder. **Edit** - Unfortunately the licensing scheme has changed since the previous iterations and it is no longer a free lifetime license. For the $70 you get a single machine, node locked license and would need to purchase a new license in the event you upgrade your machine or purchase a new one.  
 
 **[Here](https://www.youtube.com/watch?v=_f8HWoxoX0s&feature=youtu.be&hd=1)** is a video demonstrating the tool in action. It allows you to block out a scene without worrying about the master node keys, then when you are ready, blow the keys away and bake it into world space. This is a handy tool to re-align off axis animation as well as high density keyframe data like mocap. The purchase is worth this tool alone in my opinion.    
 
