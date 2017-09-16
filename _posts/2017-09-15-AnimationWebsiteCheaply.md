@@ -17,12 +17,7 @@ custom_js:
 - lity
 ---
 <h1 class="major">Create an Animation Portfolio Website on the Cheap!</h1>
-<div>
-    <span class="image fit">
-        <img src="https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg" alt="Script Editor Image"/>
-    </span>
-</div>
-<br />
+
 Now, before you read on let me start with one caveat - I'm not a coder or web developer by any stretch of the word. Some of the things I mention below might be extremely rudimentary to you or maybe there are better solutions - but if you are at all interested in learning to build your own website then some of these just might help you along the way.  
 
 
