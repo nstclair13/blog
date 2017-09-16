@@ -43,7 +43,7 @@ That's it. Three steps:
 2) Sign up for Github, follow [this](https://pages.github.com/) tutorial, and get your website up and running (Well, the skeleton of it at least).  
 3) Check out HTML5Up or similar free to use template sites, download the website files, upload them to Github and modify to your hearts content!  
 
-Like I said before, some of this might already be obvious. If it's not, then the below list are some fantastic resources that can help you get up and running.  
+Finally, the below list are some fantastic resources that can help you get up and running faster and more effeciently.  
 
 
 ## **Chrome Right Click Inspect**  
@@ -60,7 +60,7 @@ This site was extremely foreign to me as a non developed/coder. GitHub is basica
 There are a lot of tutorials and YouTube channels online that can help get you up and running. I found **[this channel from Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)** to be well done and easy to understand from a novice perspective.  
 
 
-## **[HTML5up.net](https://html5up.net/)**
+## **[HTML5UP.Net](https://html5up.net/)**
 This site contains a huge list of professionally, optimized and overall A+++ website templates. This is where the site I am using now is from (albeit modified a bunch). Take a look and download one of the templates, you won't be sorry!  
 
 ## **[SVG Generator on Github](http://www.svgeneration.com/recipes/GPlay/)**  
