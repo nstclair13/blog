@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Create an Animation Portfolio Website on the Cheap!
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg
 meta: Want to build a website but not have to spend upwards of $100 a year to maintain it? Have no fear! I have a solution that will only cost you $12 a year and be just as good as the big website builders!
 description: Want to build a website but not have to spend upwards of $100 a year to maintain it? Have no fear! I have a solution that will only cost you $12 a year and be just as good as the big website builders!
 category: Reference, Scripts, & Tutorials
