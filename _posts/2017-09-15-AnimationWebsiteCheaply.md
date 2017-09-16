@@ -1,7 +1,7 @@
 ---
 layout: default_posts
 title: Create an Animation Portfolio Website on the Cheap!
-image: https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg
+image: https://c1.staticflickr.com/6/5622/22160892602_e5474a698d.jpg
 meta: Want to build a website but not have to spend upwards of $100 a year to maintain it? Have no fear! I have a solution that will only cost you $12 a year and be just as good as the big website builders!
 description: Want to build a website but not have to spend upwards of $100 a year to maintain it? Have no fear! I have a solution that will only cost you $12 a year and be just as good as the big website builders!
 category: Reference, Scripts, & Tutorials
@@ -17,11 +17,7 @@ custom_js:
 - lity
 ---
 <h1 class="major">Create an Animation Portfolio Website on the Cheap!</h1>
-<div>
-    <span class="image fit">
-        <img src="{{site.url}}/images/.png" alt=""/>
-    </span>
-</div>
+
 Now, before you read on let me start with one caveat - I'm not a coder or web developer by any stretch of the word. Some of the things I mention below might be extremely rudimentary to you or maybe there are better solutions - but if you are at all interested in learning to build your own website then some of these just might help you along the way.  
 
 
