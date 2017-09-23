@@ -16,7 +16,7 @@ custom_js:
 - main
 - lity
 ---
-<h1 class="major">Work Update&#58; "Untitled Graphic Anthology" Project
+<h1 class="major">Work Update&#58; "Untitled Graphic Anthology" Project</h1>
 It's new project time!  
 
 On Friday I wrapped up my work on [Meg]() and today, I started working on a new project which is yet to be named titled "Untitled Graphic Anthology." As per usual , I'm unable to speak about the details.  Even more so on this one as I don't believe much has been released just yet. That said, I certainly will be posting again once specifics are released.  
